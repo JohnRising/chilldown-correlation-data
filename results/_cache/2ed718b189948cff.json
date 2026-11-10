@@ -1,0 +1,43 @@
+{
+ "run_id": "c3__spec11_TMFB+5",
+ "hash": "2ed718b189948cff",
+ "spec": {
+  "case": 3,
+  "closure": "spec11",
+  "label": "spec11_TMFB+5",
+  "N": 20,
+  "dt": 0.05,
+  "options": {
+   "g_shift_s": 2.5
+  },
+  "cparams": {
+   "e_hn": 0.15829439560199382
+  }
+ },
+ "openflume": "0.3.1",
+ "pid": 62454,
+ "solve_s": 135.6678111553192,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 587,
+ "t_end": 29.35,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 9.988936296666918e-10,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 4745.815650488699,
+  "wallEnergyRemovedJ": 4745.046635172321,
+  "fluidEnthalpyGainJ": 4742.310894835949,
+  "massInKg": 0.3677216099605192,
+  "massOutKg": 0.36248549316249956,
+  "fluidInventoryChangeKg": 0.005236116831128457,
+  "wallHeat_over_wallEnergy_m1": 0.00016206696698795042,
+  "fluidGain_over_wallEnergy_m1": -0.0005765465645992673,
+  "mass_imbalance_kg": -3.310879348461526e-11
+ },
+ "h_at_floor_frac": 0.00016196954972465177,
+ "last_sim_t": 29.35,
+ "wall_s": 135.73084902763367
+}

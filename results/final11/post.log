@@ -1,0 +1,73 @@
+[ofchill] 20 jobs, 18 cached, running 2 on 6 workers
+[ofchill] darr40__spec11_nog: ok conv=True stalled=0 solve=90.4s 
+[ofchill] darr31__spec11_nog: ok conv=True stalled=0 solve=100.9s 
+uf
+                        run  n_ok    RMS  RMS_med   bias  t130_MAE  t130_bias  t130_miss  t100s_MAE  tq_MAE  front_MAE  solve_s  fails
+7                    spec11    10  11.90    10.99  -5.41      1.17      -0.23          1       2.02    1.16      22.81   107.91      0
+0  d119s (contact-Tc rewet)    10  12.42     8.74  -4.46      1.60       1.02          2       1.92    2.55      64.46   260.85      0
+8                   specz11    10  12.90    10.25  -5.41      1.61      -0.24          1       2.12    1.68    1161.73    97.63      0
+1                   d119s11    10  13.71    10.93  -5.88      1.58       0.04          3       2.23    1.59      67.19   314.16      0
+4                      ds11    10  13.99    12.58   6.55      3.20       3.20          5       1.65    3.01      24.99   276.00      0
+3     ds (contact-Tc rewet)    10  14.51    13.71   7.13      4.13       4.13          6       2.17    7.57      34.22   192.34      0
+6      miropolskii_N10dt0.1     9  68.90    62.77  62.23       NaN        NaN          9        NaN     NaN        NaN    80.48      1
+2                  db_vapor    10  71.91    69.55 -64.57     13.95     -13.95          7      11.88   17.73    1515.16   107.78      0
+5               miropolskii     6  75.01    69.27  68.09       NaN        NaN          7        NaN     NaN        NaN   383.36      4
+sens
+                 run  n_ok    RMS  RMS_med  bias  t130_MAE  t130_bias  t130_miss  t100s_MAE  tq_MAE  front_MAE  solve_s  fails
+0       spec11_C14.9    10  11.00     8.84 -1.65      1.19       0.91          1       1.64    1.12      19.94   297.02      0
+11  spec11_parasitic    10  11.02     9.45 -3.84      0.94       0.45          1       1.80    0.98      20.11   213.68      0
+7      spec11_TMFB-5    10  11.09     9.69 -4.29      1.17       0.69          1       1.62    1.20      23.41   203.61      0
+3    spec11_Lam0.118    10  11.15    10.00 -3.14      1.00       0.48          1       1.79    1.05      19.54   304.26      0
+4     spec11_Pex0.95    10  11.74    10.39 -4.82      1.13      -0.01          1       1.95    1.14      21.46   201.87      0
+10   spec11_no_axial    10  11.86    10.96 -5.38      1.16      -0.21          1       2.02    1.14      23.44   304.49      0
+9      spec11_lag3.5    10  11.93    10.20 -5.73      1.30      -0.19          1       2.08    1.24      22.56   202.19      0
+5     spec11_Pex1.05    10  11.95    11.53 -5.79      1.15      -0.35          1       2.12    1.14      23.38   213.23      0
+13      spec11_x0.05    10  12.06    11.16 -5.74      1.28      -0.26          1       2.04    1.28      28.87   199.95      0
+12      spec11_x0.02    10  12.14    11.43 -5.85      1.28      -0.34          1       2.09    1.29      26.28   203.43      0
+8        spec11_lag0    10  12.76    12.15 -2.70      1.06       0.13          1       1.78    1.01      21.46   107.12      0
+1       spec11_C16.4    10  13.16    13.45 -7.73      1.45      -0.68          0       2.52    1.53      25.23   305.92      0
+6      spec11_TMFB+5    10  13.17    12.64 -6.60      1.68      -1.15          0       2.86    1.76      29.10   210.92      0
+2    spec11_Lam0.081    10  13.92    13.96 -8.69      1.62      -0.94          0       2.75    1.68      42.03   301.89      0
+num
+                  run  n_ok   RMS  RMS_med  bias  t130_MAE  t130_bias  t130_miss  t100s_MAE  tq_MAE  front_MAE  solve_s  fails
+0   spec11_N10_dt0.05     3  9.69     9.69  1.20      1.61      -0.14          1       2.67    1.59      35.76    38.92      0
+1  spec11_N20_dt0.025     3  9.88     9.77  1.43      1.56       0.08          1       2.69    1.62      37.03   142.96      0
+2   spec11_N20_dt0.05     3  9.90     9.83  1.37      1.57       0.06          1       2.71    1.62      37.92   112.93      0
+4   spec11_N40_dt0.05     3  9.99    10.01  1.42      1.59       0.07          1       2.73    1.61      37.14   379.98      0
+3    spec11_N20_dt0.1     3  9.99     9.98  1.32      1.59       0.04          1       2.72    1.62      36.31    74.86      0
+        dataset                                    closure  n_stations  n_data_complete  hit  miss  false  MAE_s  bias_s  MAPE_pct  within_1s  within_2s  within_10pct  quench_MAE_s  whole_n  whole_missed  whole_MAPE_pct  whole_bias_pct
+0      Darr 1 g                       Darr 2016 x1.19 + R5           4                4    4     0      0   1.81    1.81     10.82       0.00       0.50          0.50          2.33        2             0           11.61           11.61
+1      Darr 1 g               Dittus-Boelter (sat. vapour)           4                4    4     0      0   9.82   -9.82     58.14       0.00       0.00          0.00         15.88        2             0           57.17          -57.17
+2      Darr 1 g                    Darr 2016 film law + R5           4                4    1     3      0   4.38    4.38     25.57       0.00       0.00          0.00          4.70        2             2             NaN             NaN
+3      Darr 1 g                                Miropolskii           2                2    0     2      0    NaN     NaN       NaN       0.00       0.00          0.00           NaN        1             1             NaN             NaN
+4      Darr 1 g                            present closure           4                4    4     0      0   0.81   -0.39      4.84       0.75       1.00          0.75          0.98        2             0            2.82            2.22
+5      Darr 1 g                z-independent film law + R5           4                4    4     0      0   0.55   -0.40      3.15       0.75       1.00          1.00          0.60        2             0            2.45           -0.75
+6   F2 (0.05 g)                       Darr 2016 x1.19 + R5           1                1    1     0      0   0.27    0.27      1.93       1.00       1.00          1.00          0.65        1             0            1.93            1.93
+7   F2 (0.05 g)               Dittus-Boelter (sat. vapour)           1                1    1     0      0  10.22  -10.22     74.52       0.00       0.00          0.00         13.10        1             0           74.52          -74.52
+8   F2 (0.05 g)                    Darr 2016 film law + R5           1                1    1     0      0   3.44    3.44     25.08       0.00       0.00          0.00          3.80        1             0           25.08           25.08
+9   F2 (0.05 g)                                Miropolskii           1                1    0     1      0    NaN     NaN       NaN       0.00       0.00          0.00           NaN        1             1             NaN             NaN
+10  F2 (0.05 g)                            present closure           1                1    1     0      0   0.31    0.31      2.30       1.00       1.00          1.00          0.70        1             0            2.30            2.30
+11  F2 (0.05 g)                z-independent film law + R5           1                1    1     0      0   0.61   -0.61      4.47       1.00       1.00          1.00          0.45        1             0            4.47           -4.47
+12      NBS LH2                                Miropolskii           4                4    4     0      0   4.64   -4.64     10.94       0.25       0.25          0.50          3.45        1             0            4.39           -4.39
+13      NBS LH2                            present closure          24               24   24     0      0   2.98   -1.99      6.22       0.25       0.50          0.88          4.11        6             0            4.96            0.06
+14      NBS LN2         Darr 2016 x1.19 (contact-Tc rewet)           8                7    7     0      0  13.86    9.19     12.56       0.14       0.14          0.43           NaN        1             0            8.55            8.55
+15      NBS LN2                                Miropolskii          12               10   10     0      0  73.40   73.40     80.69       0.00       0.00          0.20           NaN        1             0            9.10            9.10
+16      NBS LN2                            present closure          12               10   10     0      0  16.24    9.58     13.94       0.00       0.00          0.30           NaN        1             0            8.77            8.77
+17      NBS LN2  z-independent film law (contact-Tc rewet)          12               10   10     0      0  16.93    9.77     14.35       0.00       0.00          0.30           NaN        1             0            8.37            8.37
+18           UF         Darr 2016 x1.19 (contact-Tc rewet)          20                8    7     1      5   2.02   -0.49     13.75       0.38       0.50          0.50          2.76        4             1            8.74           -4.67
+19           UF                       Darr 2016 x1.19 + R5          20                8    8     0      5   2.30   -1.36     13.72       0.25       0.50          0.62          1.48        4             0            9.48           -6.39
+20           UF               Dittus-Boelter (sat. vapour)          20                8    8     0      8  12.06  -12.06     67.62       0.00       0.00          0.00         15.66        4             0           69.56          -69.56
+21           UF               Darr 2016 (contact-Tc rewet)          20                8    4     4      0   2.02    2.02     10.91       0.25       0.25          0.25          7.51        4             3            3.32            3.32
+22           UF                    Darr 2016 film law + R5          20                8    6     2      0   1.75    1.30      9.39       0.25       0.50          0.50          4.62        4             1           10.31            8.23
+23           UF                                Miropolskii          18                8    0     8      0    NaN     NaN       NaN       0.00       0.00          0.00           NaN        4             4             NaN             NaN
+24           UF                            present closure          20                8    8     0      2   2.09   -1.43     12.27       0.25       0.50          0.50          1.20        4             0            6.51           -6.51
+25           UF                z-independent film law + R5          20                8    8     0      2   2.19   -1.33     13.57       0.38       0.50          0.50          1.48        4             0           10.80          -10.80
+wrote F1_film_parity
+wrote F2_rewet
+wrote F3_uf_histories
+wrote F4_quench_front
+wrote F5_validation
+wrote F6_nbs
+wrote F7_sensitivity
+wrote F8_boiling_curve
+wrote F9_chilldown_time

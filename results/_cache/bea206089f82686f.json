@@ -1,0 +1,17 @@
+{
+ "run_id": "nbs13_spec",
+ "hash": "bea206089f82686f",
+ "spec": {
+  "dataset": "nbs",
+  "fig": 13,
+  "variant": "spec"
+ },
+ "openflume": "0.3.1",
+ "pid": 10543,
+ "status": "failed",
+ "error": "CoreError: applyBoundaryConditions: real-fluid update failed for boundary node \"f0\" at t=26 (P=425565, T=75.99999999999953): WebAssembly.Table.get(): Argument 0 must be non-negative",
+ "traceback": "Traceback (most recent call last):\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/runner.py\", line 193, in _worker\n    res = net.solve(progress=_prog)\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/network.py\", line 153, in solve\n    res = sess.call(\n        \"solve\",\n        {\"config\": self.config, \"mode\": mode, \"progress\": progress is not None},\n        on_progress=progress,\n    )\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/_bridge.py\", line 221, in call\n    return self._request(method, params or {}, on_progress)\n           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/_bridge.py\", line 246, in _request\n    raise from_payload(msg[\"error\"])\nopenflume.errors.CoreError: applyBoundaryConditions: real-fluid update failed for boundary node \"f0\" at t=26 (P=425565, T=75.99999999999953): WebAssembly.Table.get(): Argument 0 must be non-negative\n",
+ "solve_s": 448.69183897972107,
+ "last_sim_t": 24,
+ "wall_s": 448.6919720172882
+}

@@ -1,0 +1,23 @@
+{
+ "run_id": "c6__miropolskii",
+ "hash": "f4e74cf2b5cdf65f",
+ "spec": {
+  "case": 6,
+  "closure": "miropolskii",
+  "label": "miropolskii",
+  "N": 20,
+  "dt": 0.05,
+  "options": {
+   "g_shift_s": 2.5
+  },
+  "cparams": null
+ },
+ "openflume": "0.3.1",
+ "pid": 15664,
+ "status": "timeout",
+ "error": "BridgeError: OpenFLUME Node process exited unexpectedly (exit code None)",
+ "traceback": "Traceback (most recent call last):\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/runner.py\", line 193, in _worker\n    res = net.solve(progress=_prog)\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/network.py\", line 153, in solve\n    res = sess.call(\n        \"solve\",\n        {\"config\": self.config, \"mode\": mode, \"progress\": progress is not None},\n        on_progress=progress,\n    )\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/_bridge.py\", line 221, in call\n    return self._request(method, params or {}, on_progress)\n           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/_bridge.py\", line 237, in _request\n    raise self._died()\nopenflume.errors.BridgeError: OpenFLUME Node process exited unexpectedly (exit code None)\n",
+ "solve_s": 900.0331628322601,
+ "last_sim_t": 11.700000000000001,
+ "wall_s": 900.0332200527191
+}

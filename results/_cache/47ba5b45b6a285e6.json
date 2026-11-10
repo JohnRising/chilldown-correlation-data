@@ -1,0 +1,23 @@
+{
+ "run_id": "c5__miropolskii",
+ "hash": "47ba5b45b6a285e6",
+ "spec": {
+  "case": 5,
+  "closure": "miropolskii",
+  "label": "miropolskii",
+  "N": 20,
+  "dt": 0.05,
+  "options": {
+   "g_shift_s": 2.5
+  },
+  "cparams": null
+ },
+ "openflume": "0.3.1",
+ "pid": 15659,
+ "status": "failed",
+ "error": "CoreError: WebAssembly.Table.get(): invalid address 538976288 in funcref table of size 3874",
+ "traceback": "Traceback (most recent call last):\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/runner.py\", line 193, in _worker\n    res = net.solve(progress=_prog)\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/network.py\", line 153, in solve\n    res = sess.call(\n        \"solve\",\n        {\"config\": self.config, \"mode\": mode, \"progress\": progress is not None},\n        on_progress=progress,\n    )\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/_bridge.py\", line 221, in call\n    return self._request(method, params or {}, on_progress)\n           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/john/Code/openflume-papers/chilldown-lowg/.venv/lib/python3.13/site-packages/openflume/_bridge.py\", line 246, in _request\n    raise from_payload(msg[\"error\"])\nopenflume.errors.CoreError: WebAssembly.Table.get(): invalid address 538976288 in funcref table of size 3874\n",
+ "solve_s": 25.614367961883545,
+ "last_sim_t": 13.4,
+ "wall_s": 25.6144597530365
+}

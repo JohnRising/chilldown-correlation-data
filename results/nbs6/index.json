@@ -1,0 +1,723 @@
+{
+ "10:spec10_gh:K=0.01": {
+  "hash": "84c895be54925bda",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "0.01"
+   }
+  }
+ },
+ "10:spec10_gh:K=2.0": {
+  "hash": "c1874b0bd127443e",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "2.0"
+   }
+  }
+ },
+ "10:spec10_gh:K=20.0": {
+  "hash": "fb380ae1d374c696",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "20.0"
+   }
+  }
+ },
+ "10:spec10_gh:K=100.0": {
+  "hash": "d3e2a8a5d38b1000",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "100.0"
+   }
+  }
+ },
+ "10:spec10_gh:K=0.01,Pout=83082": {
+  "hash": "764eb56dc6307ee2",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "0.01",
+    "Pout": "83082"
+   }
+  }
+ },
+ "10:spec10_gh:cp_C_fb=7.9": {
+  "hash": "c6b6f933d2d46d53",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec10_gh",
+   "kw": {
+    "cp_C_fb": "7.9"
+   }
+  }
+ },
+ "10:spec10_gh:cp_C_fb=31.6": {
+  "hash": "46e5a38f404fa3f5",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec10_gh",
+   "kw": {
+    "cp_C_fb": "31.6"
+   }
+  }
+ },
+ "2:spec10_gh:K=0.01": {
+  "hash": "f558e4abe746a24c",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "0.01"
+   }
+  }
+ },
+ "2:spec10_gh:K=2.0": {
+  "hash": "a836cc3b0e3bd6cd",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "2.0"
+   }
+  }
+ },
+ "2:spec10_gh:K=20.0": {
+  "hash": "c7ec1a9648d83836",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "20.0"
+   }
+  }
+ },
+ "2:spec10_gh:K=100.0": {
+  "hash": "c9e32373bd8af515",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec10_gh",
+   "kw": {
+    "K": "100.0"
+   }
+  }
+ },
+ "10:spec10_gh:Pout=83082,static=1,ramp=1": {
+  "hash": "15db7e33eaff1c90",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec10_gh",
+   "kw": {
+    "Pout": "83082",
+    "static": "1",
+    "ramp": "1"
+   }
+  }
+ },
+ "10:spec11_gh:Pout=83082,static=1,ramp=1": {
+  "hash": "d08ad16569961f6d",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "static": "1",
+    "ramp": "1"
+   }
+  }
+ },
+ "10:miropolskii:Pout=83082,static=1,ramp=1": {
+  "hash": "d838f65df8f94e23",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "miropolskii",
+   "kw": {
+    "Pout": "83082",
+    "static": "1",
+    "ramp": "1"
+   }
+  }
+ },
+ "2:spec10_gh:Pout=83082,static=1,ramp=1": {
+  "hash": "1cc84627c124e9ad",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec10_gh",
+   "kw": {
+    "Pout": "83082",
+    "static": "1",
+    "ramp": "1"
+   }
+  }
+ },
+ "2:spec11_gh:Pout=83082,static=1,ramp=1": {
+  "hash": "568d8a2f217bf817",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "static": "1",
+    "ramp": "1"
+   }
+  }
+ },
+ "2:miropolskii:Pout=83082,static=1,ramp=1": {
+  "hash": "876024771783810c",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "miropolskii",
+   "kw": {
+    "Pout": "83082",
+    "static": "1",
+    "ramp": "1"
+   }
+  }
+ },
+ "10:spec11_gh:Pout=83082": {
+  "hash": "15eed1475f9d3ff6",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "2:spec11_gh:Pout=83082": {
+  "hash": "ebb9ef08834c9af8",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "10:spec11s_gh:Pout=83082": {
+  "hash": "42afc0708d257420",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec11s_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "10:spec11sn_gh:Pout=83082": {
+  "hash": "c23c7a7eab4cc7b5",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec11sn_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "10:spec11n_gh:Pout=83082": {
+  "hash": "6fd234154522afb5",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec11n_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "12:spec11s_gh:Pout=83082": {
+  "hash": "a4c3459b99602a43",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11s_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "12:spec11sn_gh:Pout=83082": {
+  "hash": "cf3deb3f4af739c1",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11sn_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "12:spec11n_gh:Pout=83082": {
+  "hash": "f9fe17736b775fff",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11n_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "2:spec11s_gh:Pout=83082": {
+  "hash": "c16faf79a5393458",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11s_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "2:spec11sn_gh:Pout=83082": {
+  "hash": "5e620e4f1eb7fa0d",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11sn_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "2:spec11n_gh:Pout=83082": {
+  "hash": "8fe7148f4dd383ab",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11n_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "12:spec11_gh:Pout=83082": {
+  "hash": "421fd85839f46901",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082"
+   }
+  }
+ },
+ "14:spec11_gh:Pout=83082,seg=15": {
+  "hash": "2a391cc7f3dff909_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 14,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15"
+   }
+  }
+ },
+ "3:spec11_gh:Pout=83082,seg=15": {
+  "hash": "56c520cbf977be06_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 3,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15"
+   }
+  }
+ },
+ "10:spec11_gh:Pout=83082,end=400": {
+  "hash": "16e8a8e02c70fe20",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "end": "400"
+   }
+  }
+ },
+ "10:spec11n_gh:Pout=83082,end=400": {
+  "hash": "822c5632a3c479d4",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "spec11n_gh",
+   "kw": {
+    "Pout": "83082",
+    "end": "400"
+   }
+  }
+ },
+ "10:miropolskii:Pout=83082,end=400": {
+  "hash": "cf4cdd80915bcfac",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 10,
+   "variant": "miropolskii",
+   "kw": {
+    "Pout": "83082",
+    "end": "400"
+   }
+  }
+ },
+ "11:spec11_gh:Pout=83082,end=384": {
+  "hash": "8a7ab4a76a2f96d1",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 11,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "end": "384"
+   }
+  }
+ },
+ "11:spec11n_gh:Pout=83082,end=384": {
+  "hash": "521fcdbab525045e",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 11,
+   "variant": "spec11n_gh",
+   "kw": {
+    "Pout": "83082",
+    "end": "384"
+   }
+  }
+ },
+ "11:miropolskii:Pout=83082,end=384": {
+  "hash": "dbbc06a0fd0fd009",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 11,
+   "variant": "miropolskii",
+   "kw": {
+    "Pout": "83082",
+    "end": "384"
+   }
+  }
+ },
+ "12:spec11_gh:Pout=83082,end=208": {
+  "hash": "1a8c6b50033c2262",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "end": "208"
+   }
+  }
+ },
+ "12:spec11n_gh:Pout=83082,end=208": {
+  "hash": "6181d53c7c322c7c",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11n_gh",
+   "kw": {
+    "Pout": "83082",
+    "end": "208"
+   }
+  }
+ },
+ "12:miropolskii:Pout=83082,end=208": {
+  "hash": "99a2e0ad9904857e",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "miropolskii",
+   "kw": {
+    "Pout": "83082",
+    "end": "208"
+   }
+  }
+ },
+ "2:spec11_gh:Pout=83082,end=128": {
+  "hash": "9c135683e682489c",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "end": "128"
+   }
+  }
+ },
+ "2:spec11n_gh:Pout=83082,end=128": {
+  "hash": "4c0ff3320ede924c",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11n_gh",
+   "kw": {
+    "Pout": "83082",
+    "end": "128"
+   }
+  }
+ },
+ "2:miropolskii:Pout=83082,end=128": {
+  "hash": "a2ddc7ba0435a445",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "miropolskii",
+   "kw": {
+    "Pout": "83082",
+    "end": "128"
+   }
+  }
+ },
+ "11:spec11_gh:Pout=83082,K=0.01,end=384": {
+  "hash": "9e0bcbd9219b5c8b",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 11,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "0.01",
+    "end": "384"
+   }
+  }
+ },
+ "11:spec11_gh:Pout=83082,K=20.0,end=384": {
+  "hash": "e5292f7535e3a506",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 11,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "20.0",
+    "end": "384"
+   }
+  }
+ },
+ "11:spec11_gh:Pout=83082,K=100.0,end=384": {
+  "hash": "db7c91be33fc4415",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 11,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "100.0",
+    "end": "384"
+   }
+  }
+ },
+ "12:spec11_gh:Pout=83082,K=0.01,end=208": {
+  "hash": "0dd7db6abaf498ab",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "0.01",
+    "end": "208"
+   }
+  }
+ },
+ "12:spec11_gh:Pout=83082,K=20.0,end=208": {
+  "hash": "6f4eab6de45bd05d",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "20.0",
+    "end": "208"
+   }
+  }
+ },
+ "12:spec11_gh:Pout=83082,K=100.0,end=208": {
+  "hash": "830ad881d9c31e42",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 12,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "100.0",
+    "end": "208"
+   }
+  }
+ },
+ "2:spec11_gh:Pout=83082,K=0.01,end=128": {
+  "hash": "f44bfad29dd624b6",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "0.01",
+    "end": "128"
+   }
+  }
+ },
+ "2:spec11_gh:Pout=83082,K=20.0,end=128": {
+  "hash": "b1f7f7e63bd810aa",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "20.0",
+    "end": "128"
+   }
+  }
+ },
+ "2:spec11_gh:Pout=83082,K=100.0,end=128": {
+  "hash": "7f0bb6ded796d04c",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 2,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "K": "100.0",
+    "end": "128"
+   }
+  }
+ },
+ "13:spec11_gh:Pout=83082,seg=15,end=211": {
+  "hash": "5df2c40b1c2780ac_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 13,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15",
+    "end": "211"
+   }
+  }
+ },
+ "14:spec11_gh:Pout=83082,seg=15,end=144": {
+  "hash": "10bb603b26e76e8a_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 14,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15",
+    "end": "144"
+   }
+  }
+ },
+ "4:spec11_gh:Pout=83082,seg=15,end=120": {
+  "hash": "73ddb6a773a04120_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 4,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15",
+    "end": "120"
+   }
+  }
+ },
+ "5:spec11_gh:Pout=83082,seg=15,end=104": {
+  "hash": "b9b11db2c90c49c1_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 5,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15",
+    "end": "104"
+   }
+  }
+ },
+ "6:spec11_gh:Pout=83082,seg=15,end=70": {
+  "hash": "0e615f3e92c97ee6_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 6,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15",
+    "end": "70"
+   }
+  }
+ },
+ "7:spec11_gh:Pout=83082,seg=15,end=45": {
+  "hash": "24df9ed5000afc24_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 7,
+   "variant": "spec11_gh",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15",
+    "end": "45"
+   }
+  }
+ },
+ "13:miropolskii:Pout=83082,seg=15,end=211": {
+  "hash": "c981b64f57db4528_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 13,
+   "variant": "miropolskii",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15",
+    "end": "211"
+   }
+  }
+ },
+ "14:miropolskii:Pout=83082,seg=15,end=144": {
+  "hash": "d51a362e8ced7098_seg15",
+  "spec": {
+   "dataset": "nbs",
+   "fig": 14,
+   "variant": "miropolskii",
+   "kw": {
+    "Pout": "83082",
+    "seg": "15",
+    "end": "144"
+   }
+  }
+ }
+}

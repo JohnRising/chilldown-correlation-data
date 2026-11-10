@@ -1,0 +1,35 @@
+{
+  "upload_type": "dataset",
+  "title": "Data and code for: A film-boiling and rewetting correlation for one-dimensional simulation of cryogenic line chilldown",
+  "creators": [
+    {
+      "name": "Rising, John",
+      "affiliation": "Independent researcher, Culver City, CA, United States"
+    }
+  ],
+  "description": "<p>Simulation and analysis code, measured wall-temperature time series (third-party data, as distributed or digitized; see README), and simulation results supporting the paper \"A film-boiling and rewetting correlation for one-dimensional simulation of cryogenic line chilldown\" (submitted to the International Journal of Heat and Mass Transfer). All simulations used OpenFLUME 0.3.1 unmodified. See README.md for contents, software versions and how to reproduce the figures and tables.</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "cryogenic chilldown",
+    "film boiling",
+    "rewetting temperature",
+    "reduced gravity",
+    "quench front",
+    "network model",
+    "OpenFLUME"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://pypi.org/project/openflume/0.3.1/",
+      "relation": "requires",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/OpenFLUME/OpenFLUME",
+      "relation": "references",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Code is MIT licensed (LICENSE); results, tables and figures are CC BY 4.0; the measured data in data/ are the work of the original authors (see LICENSE-DATA.md). After the paper is published, add it as a related identifier with relation 'isSupplementTo'."
+}

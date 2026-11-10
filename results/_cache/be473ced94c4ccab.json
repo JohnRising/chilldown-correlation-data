@@ -1,0 +1,36 @@
+{
+ "run_id": "nbs04_miropolskii_satin",
+ "hash": "be473ced94c4ccab",
+ "spec": {
+  "dataset": "nbs",
+  "fig": 4,
+  "variant": "miropolskii",
+  "sens": "sat. inlet (fallback)"
+ },
+ "openflume": "0.3.1",
+ "pid": 11924,
+ "solve_s": 193.54902291297913,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 150,
+ "t_end": 75.0,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 9.994332729131695e-10,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 3343883.8354525007,
+  "wallEnergyRemovedJ": 3346803.7039147187,
+  "fluidEnthalpyGainJ": 3347517.1673884606,
+  "massInKg": 1.6094847571385977,
+  "massOutKg": 1.0332028002546783,
+  "fluidInventoryChangeKg": 0.5762819568839946,
+  "wallHeat_over_wallEnergy_m1": -0.0008724349321123093,
+  "fluidGain_over_wallEnergy_m1": 0.00021317756787087028,
+  "mass_imbalance_kg": -7.51620987671231e-14
+ },
+ "h_at_floor_frac": 0.0,
+ "last_sim_t": 75,
+ "wall_s": 193.5753128528595
+}

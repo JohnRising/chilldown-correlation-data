@@ -1,0 +1,982 @@
+{
+ "c1__spec10": {
+  "hash": "1510e2c4f5032037",
+  "spec": {
+   "case": 1,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c1__spec": {
+  "hash": "447745d08dd97838",
+  "spec": {
+   "case": 1,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c1__db_vapor": {
+  "hash": "52ccd3c7bb19c626",
+  "spec": {
+   "case": 1,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c1__ds": {
+  "hash": "8f87ac060d8b11b0",
+  "spec": {
+   "case": 1,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c1__d119s": {
+  "hash": "3b3834be84853ffb",
+  "spec": {
+   "case": 1,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c1__miropolskii_N10dt0.1": {
+  "hash": "a7a187fbb3c5c1c0",
+  "spec": {
+   "case": 1,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c1__miropolskii": {
+  "hash": "e4347171db815ebc",
+  "spec": {
+   "case": 1,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c2__spec10": {
+  "hash": "181dda2a00d4039a",
+  "spec": {
+   "case": 2,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c2__spec": {
+  "hash": "12c9847acbd31ca9",
+  "spec": {
+   "case": 2,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c2__db_vapor": {
+  "hash": "77b72afdbe9342d5",
+  "spec": {
+   "case": 2,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c2__ds": {
+  "hash": "dfc6ba1691f97889",
+  "spec": {
+   "case": 2,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c2__d119s": {
+  "hash": "d9550bc3f76839ab",
+  "spec": {
+   "case": 2,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c2__miropolskii_N10dt0.1": {
+  "hash": "1c04acd006c3d689",
+  "spec": {
+   "case": 2,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c2__miropolskii": {
+  "hash": "e3d3d90bdafd3277",
+  "spec": {
+   "case": 2,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c3__spec10": {
+  "hash": "e3ddff6a642a8c75",
+  "spec": {
+   "case": 3,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c3__spec": {
+  "hash": "a4c49e1b9c7efee7",
+  "spec": {
+   "case": 3,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c3__db_vapor": {
+  "hash": "1615e4b2c536b7c9",
+  "spec": {
+   "case": 3,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c3__ds": {
+  "hash": "2bf5210e1b11c27a",
+  "spec": {
+   "case": 3,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c3__d119s": {
+  "hash": "796772858cd45207",
+  "spec": {
+   "case": 3,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c3__miropolskii_N10dt0.1": {
+  "hash": "f430a51f7e322875",
+  "spec": {
+   "case": 3,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c3__miropolskii": {
+  "hash": "b0fbc0712fa8ee72",
+  "spec": {
+   "case": 3,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c4__spec10": {
+  "hash": "2a0a9dcfd45ded1d",
+  "spec": {
+   "case": 4,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c4__spec": {
+  "hash": "c381a1afbe27a270",
+  "spec": {
+   "case": 4,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c4__db_vapor": {
+  "hash": "87e37c0589158d41",
+  "spec": {
+   "case": 4,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c4__ds": {
+  "hash": "7117518c672ca8c1",
+  "spec": {
+   "case": 4,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c4__d119s": {
+  "hash": "2ccb2069db3a34f6",
+  "spec": {
+   "case": 4,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c4__miropolskii_N10dt0.1": {
+  "hash": "8c43ca22aec1895b",
+  "spec": {
+   "case": 4,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c4__miropolskii": {
+  "hash": "4693bc45bd47bafc",
+  "spec": {
+   "case": 4,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c5__spec10": {
+  "hash": "51b555efcec3c9a5",
+  "spec": {
+   "case": 5,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c5__spec": {
+  "hash": "f09bfb1245b2a5c5",
+  "spec": {
+   "case": 5,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c5__db_vapor": {
+  "hash": "8383c5f181e137dd",
+  "spec": {
+   "case": 5,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c5__ds": {
+  "hash": "5a014476812c4fef",
+  "spec": {
+   "case": 5,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c5__d119s": {
+  "hash": "fd6cb117370e5858",
+  "spec": {
+   "case": 5,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c5__miropolskii_N10dt0.1": {
+  "hash": "4333593f495b9986",
+  "spec": {
+   "case": 5,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c5__miropolskii": {
+  "hash": "47ba5b45b6a285e6",
+  "spec": {
+   "case": 5,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c6__spec10": {
+  "hash": "4004aa8f172bbda3",
+  "spec": {
+   "case": 6,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c6__spec": {
+  "hash": "bd0b1fd9d63ea33d",
+  "spec": {
+   "case": 6,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c6__db_vapor": {
+  "hash": "54d5488661443047",
+  "spec": {
+   "case": 6,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c6__ds": {
+  "hash": "ac6224f7e88d3de3",
+  "spec": {
+   "case": 6,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c6__d119s": {
+  "hash": "6eb8bb3a882d66ca",
+  "spec": {
+   "case": 6,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c6__miropolskii_N10dt0.1": {
+  "hash": "14ee4afa112443a8",
+  "spec": {
+   "case": 6,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c6__miropolskii": {
+  "hash": "f4e74cf2b5cdf65f",
+  "spec": {
+   "case": 6,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c7__spec10": {
+  "hash": "cef293443dce5a4e",
+  "spec": {
+   "case": 7,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c7__spec": {
+  "hash": "b4b03f66189ab13d",
+  "spec": {
+   "case": 7,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c7__db_vapor": {
+  "hash": "909cf6feb5e5e2f6",
+  "spec": {
+   "case": 7,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c7__ds": {
+  "hash": "2eba7f44e31367a7",
+  "spec": {
+   "case": 7,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c7__d119s": {
+  "hash": "beee40dbe9a7cce8",
+  "spec": {
+   "case": 7,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c7__miropolskii_N10dt0.1": {
+  "hash": "a26ffb136d0754fc",
+  "spec": {
+   "case": 7,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c7__miropolskii": {
+  "hash": "ee2f9ce99d0a44a4",
+  "spec": {
+   "case": 7,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c8__spec10": {
+  "hash": "917504cae53d7205",
+  "spec": {
+   "case": 8,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c8__spec": {
+  "hash": "c0cba6699fdcded1",
+  "spec": {
+   "case": 8,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c8__db_vapor": {
+  "hash": "dcb341bae3743813",
+  "spec": {
+   "case": 8,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c8__ds": {
+  "hash": "5054865348b22bac",
+  "spec": {
+   "case": 8,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c8__d119s": {
+  "hash": "473df728dadd4542",
+  "spec": {
+   "case": 8,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c8__miropolskii_N10dt0.1": {
+  "hash": "779c4c94483aa854",
+  "spec": {
+   "case": 8,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c8__miropolskii": {
+  "hash": "0428ec040020b5fd",
+  "spec": {
+   "case": 8,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c9__spec10": {
+  "hash": "61abef8ba10460ea",
+  "spec": {
+   "case": 9,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c9__spec": {
+  "hash": "875315426000feb4",
+  "spec": {
+   "case": 9,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c9__db_vapor": {
+  "hash": "907ebe3778c85419",
+  "spec": {
+   "case": 9,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c9__ds": {
+  "hash": "31c5d1e5e149f074",
+  "spec": {
+   "case": 9,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c9__d119s": {
+  "hash": "97d1dd1c5fbdb28c",
+  "spec": {
+   "case": 9,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c9__miropolskii_N10dt0.1": {
+  "hash": "478900f59461eaeb",
+  "spec": {
+   "case": 9,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c9__miropolskii": {
+  "hash": "d89ea67d43e3b824",
+  "spec": {
+   "case": 9,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c10__spec10": {
+  "hash": "7f73cd108632cb05",
+  "spec": {
+   "case": 10,
+   "closure": "spec10",
+   "label": "spec10",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c10__spec": {
+  "hash": "90d82cfea58ffd55",
+  "spec": {
+   "case": 10,
+   "closure": "spec",
+   "label": "spec",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c10__db_vapor": {
+  "hash": "c93ee2ba77994c17",
+  "spec": {
+   "case": 10,
+   "closure": "db_vapor",
+   "label": "db_vapor",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c10__ds": {
+  "hash": "536afe1511e8b576",
+  "spec": {
+   "case": 10,
+   "closure": "ds",
+   "label": "ds",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c10__d119s": {
+  "hash": "05066102e339fa48",
+  "spec": {
+   "case": 10,
+   "closure": "d119s",
+   "label": "d119s",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c10__miropolskii_N10dt0.1": {
+  "hash": "d8e531cb3e24339b",
+  "spec": {
+   "case": 10,
+   "closure": "miropolskii",
+   "label": "miropolskii_N10dt0.1",
+   "N": 10,
+   "dt": 0.1,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ },
+ "c10__miropolskii": {
+  "hash": "34df0a252dc0ab16",
+  "spec": {
+   "case": 10,
+   "closure": "miropolskii",
+   "label": "miropolskii",
+   "N": 20,
+   "dt": 0.05,
+   "options": {
+    "g_shift_s": 2.5
+   },
+   "cparams": null
+  }
+ }
+}

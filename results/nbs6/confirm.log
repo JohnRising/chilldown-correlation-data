@@ -1,0 +1,318 @@
+[ofchill] 20 jobs, 0 cached, running 20 on 3 workers
+[ofchill] c2_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=65.3s 
+[ofchill] c1_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=87.9s 
+[ofchill] c3_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=116.6s 
+[ofchill] c4_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=65.3s 
+[ofchill] c5_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=102.5s 
+[ofchill] c7_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=135.9s 
+[ofchill] c8_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=113.7s 
+[ofchill] c6_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=188.2s 
+[ofchill] c9_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=117.4s 
+[ofchill] c1_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=83.8s 
+[ofchill] c10_vspec11_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=86.3s 
+[ofchill] c2_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=69.3s 
+[ofchill] c4_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=65.2s 
+[ofchill] c3_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=115.2s 
+[ofchill] c5_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=97.9s 
+[ofchill] c7_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=131.8s 
+[ofchill] c6_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=188.1s 
+[ofchill] c8_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=113.3s 
+[ofchill] c10_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=83.6s 
+[ofchill] c9_vspec11n_N20_dt0.05_gs2.5: ok conv=True stalled=0 solve=110.6s 
+[ofchill] 6 jobs, 0 cached, running 6 on 3 workers
+[ofchill] darr31_spec11_gv: ok conv=True stalled=0 solve=135.4s 
+[ofchill] f2_L0.676_spec11n_gh: ok conv=True stalled=0 solve=151.6s 
+[ofchill] f2_L0.676_spec11_gh: ok conv=True stalled=0 solve=158.2s 
+[ofchill] darr31_spec11n_gv: ok conv=True stalled=0 solve=132.7s 
+[ofchill] darr40_spec11_gv: ok conv=True stalled=0 solve=130.5s 
+[ofchill] darr40_spec11n_gv: ok conv=True stalled=0 solve=126.4s 
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+/Users/john/Code/openflume-papers/chilldown-lowg/ofchill/validate4.py:334: RuntimeWarning: Mean of empty slice
+  **{f"{c}_MAE": (c, lambda s: np.nanmean(np.abs(s.astype(float)))) for c in errc},
+   dataset      variant   n        RMS       bias  t135_err_MAE  t126_err_MAE  t97_err_MAE  t_q_err_MAE  t130_err_MAE  t100_err_MAE  t_knee_err_MAE  onset_err_MAE  t150_err_MAE  t135_err_n  t126_err_n  t97_err_n  t_q_err_n  t130_err_n  t100_err_n  t_knee_err_n  onset_err_n  t150_err_n     solve_s
+0     darr            b   4  17.500400  12.078015      2.970026      3.493859     3.729008     3.435921           NaN           NaN             NaN            NaN           NaN           4           4          3          4           0           0             0            0           0   25.439548
+1     darr        d119s   4  16.561599  10.987850      2.757066      3.170082     2.784189     2.814657           NaN           NaN             NaN            NaN           NaN           4           4          4          4           0           0             0            0           0   25.350203
+2     darr         spec   4  17.333715  11.334755      2.979775      3.409993     3.063067     3.123337           NaN           NaN             NaN            NaN           NaN           4           4          4          4           0           0             0            0           0   55.721488
+3     darr       spec10   4  16.367844  10.307607      2.784467      3.260430     2.559782     2.520151           NaN           NaN             NaN            NaN           NaN           4           4          3          3           0           0             0            0           0  101.502807
+4     darr    spec10_gv   4   8.714435  -0.918424      0.937799      1.251905     0.968437     0.994551           NaN           NaN             NaN            NaN           NaN           4           4          4          4           0           0             0            0           0  133.668231
+5     darr    spec11_gv   4   8.137100  -2.615881      0.949490      0.958006     0.779911     0.834700           NaN           NaN             NaN            NaN           NaN           4           4          4          4           0           0             0            0           0  132.962780
+6     darr   spec11n_gv   4   8.136846  -2.615721      0.949586      0.958163     0.779951     0.834755           NaN           NaN             NaN            NaN           NaN           4           4          4          4           0           0             0            0           0  129.561041
+7     darr      spec_gv   4   7.318580  -0.911205      0.658070      0.963030     0.687288     0.714704           NaN           NaN             NaN            NaN           NaN           4           4          4          4           0           0             0            0           0  128.797433
+8       f2            b   1   9.887886  -4.385770           NaN           NaN          NaN     0.747342      0.280677           NaN             NaN            NaN           NaN           0           0          0          1           1           0             0            0           0   59.444713
+9       f2        d119s   1  11.253650  -3.080600           NaN           NaN          NaN     1.209659      1.119687           NaN             NaN            NaN           NaN           0           0          0          1           1           0             0            0           0  114.748253
+10      f2         spec   1  10.553453  -4.928005           NaN           NaN          NaN     0.468291      0.496554           NaN             NaN            NaN           NaN           0           0          0          1           1           0             0            0           0   86.117641
+11      f2       spec10   1  11.842017  -0.032566           NaN           NaN          NaN     1.604193      1.510515           NaN             NaN            NaN           NaN           0           0          0          1           1           0             0            0           0  133.606201
+12      f2    spec10_gh   1  10.972533  -1.732918           NaN           NaN          NaN     1.203028      1.078433           NaN             NaN            NaN           NaN           0           0          0          1           1           0             0            0           0  154.766662
+13      f2    spec11_gh   1   8.956110  -3.496597           NaN           NaN          NaN     0.220403      0.461890           NaN             NaN            NaN           NaN           0           0          0          1           1           0             0            0           0  158.204817
+14      f2   spec11n_gh   1   9.518888  -1.902807           NaN           NaN          NaN     0.406627      0.656820           NaN             NaN            NaN           NaN           0           0          0          1           1           0             0            0           0  151.566692
+15      f2      spec_gh   1  10.575420  -6.172670           NaN           NaN          NaN     0.159102      0.177651           NaN             NaN            NaN           NaN           0           0          0          1           1           0             0            0           0   98.329814
+16     nbs            b   4  31.310501  12.117946           NaN           NaN          NaN          NaN           NaN           NaN        8.643240      18.161293      9.670696           0           0          0          0           0           0             4            4           4  191.741999
+17     nbs        d119s   4  31.717932  -9.123377           NaN           NaN          NaN          NaN           NaN      2.559863        1.955012      15.691341           NaN           0           0          0          0           0           4             4            4           0  422.257619
+18     nbs  miropolskii  16  28.362997   9.269625           NaN           NaN          NaN          NaN           NaN      2.557274       28.115773      17.935225      7.037318           0           0          0          0           0           4            12           16          12  168.832046
+19     nbs         spec  16  42.814441  16.660659           NaN           NaN          NaN          NaN           NaN      2.557741       12.188199      23.524641     19.557479           0           0          0          0           0           4            13           16          11  239.759005
+20     nbs       spec10  16  40.498057  15.904279           NaN           NaN          NaN          NaN           NaN      2.555127       10.186752      23.531309     17.487530           0           0          0          0           0           4            13           16          11  817.216964
+21     nbs    spec10_gh  16  41.007965  16.068149           NaN           NaN          NaN          NaN           NaN      2.557084       10.212279      23.916663     17.161081           0           0          0          0           0           4            13           16          11  602.508684
+22     nbs      spec_gh  16  42.793297  17.192313           NaN           NaN          NaN          NaN           NaN      2.557671       11.000022      23.681844     18.583570           0           0          0          0           0           4            13           16          11  235.093323

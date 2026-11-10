@@ -1,0 +1,41 @@
+{
+ "run_id": "c10__miropolskii_N10dt0.1",
+ "hash": "d8e531cb3e24339b",
+ "spec": {
+  "case": 10,
+  "closure": "miropolskii",
+  "label": "miropolskii_N10dt0.1",
+  "N": 10,
+  "dt": 0.1,
+  "options": {
+   "g_shift_s": 2.5
+  },
+  "cparams": null
+ },
+ "openflume": "0.3.1",
+ "pid": 15661,
+ "solve_s": 5.5601348876953125,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 143,
+ "t_end": 14.3,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 9.871628356008698e-10,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 2812.516102558725,
+  "wallEnergyRemovedJ": 2815.3182091605327,
+  "fluidEnthalpyGainJ": 2816.305132513784,
+  "massInKg": 0.6982062789964247,
+  "massOutKg": 0.6757275097515305,
+  "fluidInventoryChangeKg": 0.02247876925736451,
+  "wallHeat_over_wallEnergy_m1": -0.0009953072418918962,
+  "fluidGain_over_wallEnergy_m1": 0.00035055481474177697,
+  "mass_imbalance_kg": -1.2470285221111155e-11
+ },
+ "h_at_floor_frac": 0.0,
+ "last_sim_t": 14.100000000000001,
+ "wall_s": 5.568835258483887
+}

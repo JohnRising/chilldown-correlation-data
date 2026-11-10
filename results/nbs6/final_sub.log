@@ -1,0 +1,7 @@
+[ofchill] 8 jobs, 0 cached, running 8 on 4 workers
+[ofchill] 5:spec11_gh:Pout=83082,seg=15,end=104: ok conv=True stalled=0 solve=208.5s 
+[ofchill] 6:spec11_gh:Pout=83082,seg=15,end=70: ok conv=True stalled=0 solve=216.2s 
+[ofchill] 7:spec11_gh:Pout=83082,seg=15,end=45: ok conv=True stalled=0 solve=183.0s 
+[ofchill] 4:spec11_gh:Pout=83082,seg=15,end=120: ok conv=False stalled=2 solve=799.7s 
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:479: UserWarning: resource_tracker: There appear to be 5 leaked semaphore objects to clean up at shutdown: {'/mp-qey6rx4t', '/mp-jdijc8gq', '/mp-0dhioz74', '/mp-pn0mw36q', '/mp-cqkdn26o'}
+  warnings.warn(

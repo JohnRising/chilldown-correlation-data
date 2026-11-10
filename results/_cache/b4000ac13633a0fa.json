@@ -1,0 +1,34 @@
+{
+ "run_id": "f2__db_vapor",
+ "hash": "b4000ac13633a0fa",
+ "spec": {
+  "dataset": "f2",
+  "variant": "db_vapor"
+ },
+ "openflume": "0.3.1",
+ "pid": 57398,
+ "solve_s": 603.3226780891418,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 394,
+ "t_end": 19.700000000000003,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 1.4333861335399156e-09,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 8330.88094158674,
+  "wallEnergyRemovedJ": 8334.469863438893,
+  "fluidEnthalpyGainJ": 8334.464838676202,
+  "massInKg": 0.9887271942573991,
+  "massOutKg": 0.9857408229094442,
+  "fluidInventoryChangeKg": 0.0029863717383998524,
+  "wallHeat_over_wallEnergy_m1": -0.0004306118938526282,
+  "fluidGain_over_wallEnergy_m1": -6.028892987064438e-07,
+  "mass_imbalance_kg": -3.9044497756463015e-10
+ },
+ "h_at_floor_frac": 0.0,
+ "last_sim_t": 19.700000000000003,
+ "wall_s": 603.3718268871307
+}

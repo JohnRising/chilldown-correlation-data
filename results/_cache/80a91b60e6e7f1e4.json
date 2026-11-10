@@ -1,0 +1,36 @@
+{
+ "run_id": "nbs03_spec_satin",
+ "hash": "80a91b60e6e7f1e4",
+ "spec": {
+  "dataset": "nbs",
+  "fig": 3,
+  "variant": "spec",
+  "sens": "sat. inlet (fallback)"
+ },
+ "openflume": "0.3.1",
+ "pid": 11926,
+ "solve_s": 471.2574760913849,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 300,
+ "t_end": 150.0,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 1.1425953141038949e-09,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 3280464.9503731,
+  "wallEnergyRemovedJ": 3282876.268025279,
+  "fluidEnthalpyGainJ": 3283147.088033206,
+  "massInKg": 2.7652829844689815,
+  "massOutKg": 2.2884269267116464,
+  "fluidInventoryChangeKg": 0.476856058274787,
+  "wallHeat_over_wallEnergy_m1": -0.0007345137176398842,
+  "fluidGain_over_wallEnergy_m1": 8.24947350481775e-05,
+  "mass_imbalance_kg": -5.174519146500245e-10
+ },
+ "h_at_floor_frac": 0.0,
+ "last_sim_t": 149.5,
+ "wall_s": 471.3560371398926
+}

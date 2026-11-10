@@ -1,0 +1,35 @@
+{
+ "run_id": "darr40__miropolskii",
+ "hash": "2c233cd2f62b59c9",
+ "spec": {
+  "dataset": "darr",
+  "test": 40,
+  "variant": "miropolskii"
+ },
+ "openflume": "0.3.1",
+ "pid": 57397,
+ "solve_s": 9.2243971824646,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 204,
+ "t_end": 20.400000000000002,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 0.0066584513620554795,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 2617.034208693981,
+  "wallEnergyRemovedJ": 2336.7746282109824,
+  "fluidEnthalpyGainJ": 2057.4891144273615,
+  "massInKg": 0.7058399662040882,
+  "massOutKg": 0.66959787095731,
+  "fluidInventoryChangeKg": 0.03618723809268333,
+  "wallHeat_over_wallEnergy_m1": 0.11993436470061436,
+  "fluidGain_over_wallEnergy_m1": -0.11951752231983104,
+  "mass_imbalance_kg": 5.4857154094797855e-05
+ },
+ "h_at_floor_frac": 0.0,
+ "last_sim_t": 20.3,
+ "wall_s": 9.236896991729736
+}

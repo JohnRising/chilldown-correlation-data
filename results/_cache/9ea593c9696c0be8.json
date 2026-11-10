@@ -1,0 +1,46 @@
+{
+ "run_id": "c4__spec10_parasitic",
+ "hash": "9ea593c9696c0be8",
+ "spec": {
+  "case": 4,
+  "closure": "spec10",
+  "label": "spec10_parasitic",
+  "N": 20,
+  "dt": 0.05,
+  "options": {
+   "parasitic": [
+    98.6,
+    2.2,
+    293.0
+   ],
+   "g_shift_s": 2.5
+  },
+  "cparams": null
+ },
+ "openflume": "0.3.1",
+ "pid": 24111,
+ "solve_s": 70.96604800224304,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 374,
+ "t_end": 18.7,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 9.936336703482077e-10,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 3894.4787399259058,
+  "wallEnergyRemovedJ": 3783.8651560779626,
+  "fluidEnthalpyGainJ": 3894.896944120258,
+  "massInKg": 0.2666887740655458,
+  "massOutKg": 0.26416616927226233,
+  "fluidInventoryChangeKg": 0.0025226048170126207,
+  "wallHeat_over_wallEnergy_m1": 0.02923296134648612,
+  "fluidGain_over_wallEnergy_m1": 0.02934348436385137,
+  "mass_imbalance_kg": -2.372914234896606e-11
+ },
+ "h_at_floor_frac": 0.00025396825396825396,
+ "last_sim_t": 18.7,
+ "wall_s": 71.02336525917053
+}

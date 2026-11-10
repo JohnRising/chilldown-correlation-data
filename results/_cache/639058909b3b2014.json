@@ -1,0 +1,64 @@
+{
+ "run_id": "c8_vspec11_N20_dt0.05_gs2.5",
+ "hash": "639058909b3b2014",
+ "spec": {
+  "case": 8,
+  "closure": {
+   "model": "custom",
+   "label": "vspec11",
+   "params": {
+    "T_MFB": 134.0,
+    "beta": 0.0825267249490012,
+    "dThn": 18.8,
+    "Tc": 126.192,
+    "dT_CHF": 24.0,
+    "q_CHF": 100000.0,
+    "m": 0.5,
+    "x_dry": 0.95,
+    "Pc": 3395800.0,
+    "M": 28.0134,
+    "C_fb": 15.8,
+    "Lam": 0.101,
+    "x_ul_max": 0.9,
+    "z": 0.0,
+    "z_min": 0.02336,
+    "e_hn": 0.122,
+    "Nu_floor": 4.36
+   },
+   "fluid": "Nitrogen",
+   "expr_sha1": "f6d80d874c"
+  },
+  "label": "vspec11",
+  "N": 20,
+  "dt": 0.05,
+  "options": {
+   "g_shift_s": 2.5
+  }
+ },
+ "openflume": "0.3.1",
+ "pid": 39813,
+ "solve_s": 113.66610407829285,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 461,
+ "t_end": 23.05,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 9.976215319129105e-10,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 6713.383351300675,
+  "wallEnergyRemovedJ": 6714.273099359344,
+  "fluidEnthalpyGainJ": 6712.054288822836,
+  "massInKg": 0.7479112988379951,
+  "massOutKg": 0.7132554314353936,
+  "fluidInventoryChangeKg": 0.034655867434374224,
+  "wallHeat_over_wallEnergy_m1": -0.0001325159172858026,
+  "fluidGain_over_wallEnergy_m1": -0.00033046176461304366,
+  "mass_imbalance_kg": -3.1772709463417925e-11
+ },
+ "h_at_floor_frac": 0.0,
+ "last_sim_t": 23,
+ "wall_s": 113.71354603767395
+}

@@ -1,0 +1,34 @@
+{
+ "run_id": "darr40_d119s",
+ "hash": "be84d17d43f0b007",
+ "spec": {
+  "dataset": "darr",
+  "test": 40,
+  "variant": "d119s"
+ },
+ "openflume": "0.3.1",
+ "pid": 6808,
+ "solve_s": 22.832642078399658,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 407,
+ "t_end": 20.35,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 4.4706302168999117e-10,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 7124.988596869061,
+  "wallEnergyRemovedJ": 6997.224995225195,
+  "fluidEnthalpyGainJ": 6991.347239365362,
+  "massInKg": 0.70411,
+  "massOutKg": 0.6692783844578354,
+  "fluidInventoryChangeKg": 0.034831615542413555,
+  "wallHeat_over_wallEnergy_m1": 0.01825918156569939,
+  "fluidGain_over_wallEnergy_m1": -0.0008400124140418574,
+  "mass_imbalance_kg": -2.489258799087679e-13
+ },
+ "h_at_floor_frac": 0.00011671335200746966,
+ "wall_s": 22.87422800064087
+}

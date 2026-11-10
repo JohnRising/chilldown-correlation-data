@@ -1,0 +1,38 @@
+{
+ "run_id": "2:spec11_gh:Pout=83082",
+ "hash": "ebb9ef08834c9af8",
+ "spec": {
+  "dataset": "nbs",
+  "fig": 2,
+  "variant": "spec11_gh",
+  "kw": {
+   "Pout": "83082"
+  }
+ },
+ "openflume": "0.3.1",
+ "pid": 31904,
+ "solve_s": 257.2525908946991,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 160,
+ "t_end": 80.0,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 9.577607085065026e-06,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 3451747.381463342,
+  "wallEnergyRemovedJ": 3454835.4471176877,
+  "fluidEnthalpyGainJ": 3455944.27618895,
+  "massInKg": 3.930617760571484,
+  "massOutKg": 3.497387988281991,
+  "fluidInventoryChangeKg": 0.4332240572227496,
+  "wallHeat_over_wallEnergy_m1": -0.000893838708561967,
+  "fluidGain_over_wallEnergy_m1": 0.000320949894209166,
+  "mass_imbalance_kg": 5.715066743072761e-06
+ },
+ "h_at_floor_frac": 0.0,
+ "last_sim_t": 80,
+ "wall_s": 257.27921319007874
+}

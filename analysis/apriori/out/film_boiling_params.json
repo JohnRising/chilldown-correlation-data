@@ -1,0 +1,46 @@
+{
+ "Bromley C=2.7 (film props)": [],
+ "Bromley C=2.7 (sat props)": [],
+ "Darr 2016 low-g (x_eq)": [],
+ "Darr 2016 low-g (x=0)": [],
+ "Dittus-Boelter vapour, Re=GD/mu_v (sat)": [],
+ "Dittus-Boelter vapour (film props)": [],
+ "Miropolskii (x_eq)": [],
+ "Miropolskii (x=0)": [],
+ "Groeneveld 1973 tube (x_eq)": [],
+ "Couette film, ell=z (from inlet)": [],
+ "Couette film, ell=D": [],
+ "Couette film, ell=lambda_KH(u_l)": [],
+ "Penetration (sensible), ell=D, C=1": [],
+ "Bromley, C fit (film props)": [
+  1.8528745222844412
+ ],
+ "Couette, ell=C*lambda_KH fit": [
+  0.004935447771275435
+ ],
+ "Penetration, C fit": [
+  2.344872583211676
+ ],
+ "Dittus-Boelter vapour (sat), C fit": [
+  0.26622503739602016
+ ],
+ "Darr 2016 x C fit": [
+  1.1863655978847252
+ ],
+ "Bromley, C & beta fit (hfg'=hfg+beta cp dT)": [
+  0.0459932973183853,
+  2892.337943578156
+ ],
+ "Pe_l power law: C (k_v/D) Pe_l^n": [
+  7.780870490701785,
+  0.34519714062946555
+ ],
+ "Pe_l power law x Darr entrance factor": [
+  6.948420762912351,
+  0.3445475674992633
+ ],
+ "Re_v power law: C Re_v^n Pr^0.4 k_v/D (sat)": [
+  0.6674186601304308,
+  0.42877884893227985
+ ]
+}

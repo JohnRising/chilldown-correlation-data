@@ -1,0 +1,22 @@
+[ofchill] 11 jobs, 2 cached, running 9 on 6 workers
+[ofchill] 10:spec10_gh:cp_C_fb=31.6: ok conv=True stalled=0 solve=163.5s 
+[ofchill] 10:spec10_gh:K=100.0: ok conv=True stalled=0 solve=172.1s 
+[ofchill] 10:spec10_gh:K=0.01: ok conv=True stalled=0 solve=173.0s 
+[ofchill] 10:spec10_gh:K=20.0: ok conv=True stalled=0 solve=173.0s 
+[ofchill] 10:spec10_gh:K=0.01,Pout=83082: ok conv=True stalled=0 solve=174.7s 
+[ofchill] 2:spec10_gh:K=0.01: ok conv=True stalled=0 solve=184.6s 
+[ofchill] 10:spec10_gh:cp_C_fb=7.9: ok conv=True stalled=0 solve=359.9s 
+[ofchill] 2:spec10_gh:K=20.0: ok conv=True stalled=0 solve=188.7s 
+[ofchill] 2:spec10_gh:K=100.0: ok conv=True stalled=0 solve=199.2s 
+                               run status  last_t     RMS    bias  knee_MAE  knee_n  mdot_mean  mdot_max  mdot_end  rms_s1  rms_s2  rms_s3  rms_s4  knee_err_s1  knee_err_s2  knee_err_s3  knee_err_s4  solve_s
+0              10:spec10_gh:K=0.01     ok   250.0  47.716  25.533     9.522       2      0.045     0.078     0.075  18.439  49.588  66.036  56.801       -6.939       12.105          NaN          NaN  172.969
+1   10:spec10_gh:K=0.01,Pout=83082     ok   250.0  44.881  22.006     8.299       2      0.048     0.087     0.083  21.327  46.950  60.046  51.199       -9.825        6.774          NaN          NaN  174.705
+2             10:spec10_gh:K=100.0     ok   250.0  48.723  26.408    10.418       2      0.041     0.061     0.060  18.109  50.507  68.168  58.107       -6.531       14.305          NaN          NaN  172.072
+3               10:spec10_gh:K=2.0     ok   250.0  47.743  25.554     9.544       2      0.045     0.077     0.074  18.432  49.608  66.092  56.839       -6.931       12.157          NaN          NaN  194.356
+4              10:spec10_gh:K=20.0     ok   250.0  47.965  25.739     9.733       2      0.044     0.072     0.070  18.370  49.788  66.552  57.149       -6.857       12.608          NaN          NaN  173.045
+5        10:spec10_gh:cp_C_fb=31.6     ok   250.0  47.690  26.217     8.491       2      0.045     0.077     0.075  17.638  49.804  66.362  56.957       -6.176       10.807          NaN          NaN  163.457
+6         10:spec10_gh:cp_C_fb=7.9     ok   250.0  48.388  25.152    10.896       2      0.045     0.076     0.074  20.633  49.734  66.268  56.917       -9.161       12.632          NaN          NaN  359.873
+7               2:spec10_gh:K=0.01     ok    79.5  31.977  -9.532     2.023       4      0.049     0.132     0.132  25.708  20.709  32.293  49.198       -0.868       -0.712       -3.817       -2.697  184.614
+8              2:spec10_gh:K=100.0     ok    79.5  23.930  -2.144     0.983       4      0.035     0.084     0.084  26.350  25.400  19.693  24.277       -0.586       -0.007       -2.515       -0.825  199.167
+9                2:spec10_gh:K=2.0     ok    79.5  31.761  -9.361     1.992       4      0.048     0.130     0.130  25.721  20.804  31.993  48.524       -0.860       -0.691       -3.781       -2.637  890.018
+10              2:spec10_gh:K=20.0     ok    80.0  30.138  -7.974     1.795       4      0.044     0.114     0.114  25.841  21.668  29.601  43.443       -0.794       -0.552       -3.566       -2.267  188.674

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite it and the paper it supports."
+title: "Data and code for: A film-boiling and rewetting correlation for one-dimensional simulation of cryogenic line chilldown"
+type: dataset
+authors:
+  - family-names: Rising
+    given-names: John
+    email: johnrising@alum.mit.edu
+    affiliation: "Independent researcher, Culver City, CA, United States"
+license: CC-BY-4.0
+keywords:
+  - cryogenic chilldown
+  - film boiling
+  - rewetting temperature
+  - reduced gravity
+  - quench front
+  - network model
+  - OpenFLUME

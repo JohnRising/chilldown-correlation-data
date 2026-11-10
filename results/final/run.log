@@ -1,0 +1,268 @@
+[ofchill] 70 jobs, 20 cached, running 50 on 6 workers
+[ofchill] c2__db_vapor: ok conv=True stalled=0 solve=165.6s 
+[ofchill] c1__db_vapor: ok conv=True stalled=0 solve=183.3s 
+[ofchill] c2__ds: ok conv=True stalled=0 solve=162.7s 
+[ofchill] c1__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=341.2s 
+[ofchill] c2__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=79.7s 
+[ofchill] c2__d119s: ok conv=True stalled=0 solve=267.6s 
+[ofchill] c3__db_vapor: ok conv=True stalled=0 solve=104.5s 
+[ofchill] c1__ds: ok conv=True stalled=0 solve=588.3s 
+[ofchill] c3__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=8.5s 
+[ofchill] c3__miropolskii: ok conv=True stalled=0 solve=16.9s 
+[ofchill] c3__ds: ok conv=True stalled=0 solve=187.3s 
+[ofchill] c4__ds: ok conv=True stalled=0 solve=22.9s 
+[ofchill] c4__db_vapor: ok conv=True stalled=0 solve=71.7s 
+[ofchill] c4__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=7.2s 
+[ofchill] c3__d119s: ok conv=True stalled=0 solve=184.4s 
+[ofchill] c1__d119s: ok conv=True stalled=0 solve=738.6s 
+[ofchill] c5__db_vapor: ok conv=True stalled=0 solve=81.8s 
+[ofchill] c4__miropolskii: ok conv=True stalled=0 solve=156.7s 
+[ofchill] c5__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=9.7s 
+[ofchill] c5__miropolskii: failed conv=None stalled=None solve=25.6s CoreError: WebAssembly.Table.get(): invalid address 538976288 in funcref table of size 3874
+[ofchill] c1__miropolskii: timeout conv=None stalled=None solve=900.0s BridgeError: OpenFLUME Node process exited unexpectedly (exit code None)
+[ofchill] c5__ds: ok conv=True stalled=0 solve=161.3s 
+[ofchill] c4__d119s: ok conv=True stalled=0 solve=241.8s 
+[ofchill] c5__d119s: ok conv=True stalled=0 solve=151.6s 
+[ofchill] c6__db_vapor: ok conv=True stalled=0 solve=187.9s 
+[ofchill] c7__db_vapor: ok conv=True stalled=0 solve=68.2s 
+[ofchill] c2__miropolskii: ok conv=True stalled=0 solve=823.7s 
+[ofchill] c6__miropolskii_N10dt0.1: failed conv=None stalled=None solve=294.7s CoreError: memory access out of bounds
+[ofchill] c7__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=16.1s 
+[ofchill] c7__miropolskii: ok conv=True stalled=0 solve=40.5s 
+[ofchill] c7__ds: ok conv=True stalled=0 solve=123.5s 
+[ofchill] c6__ds: ok conv=True stalled=0 solve=397.5s 
+[ofchill] c8__db_vapor: ok conv=True stalled=0 solve=54.7s 
+[ofchill] c8__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=4.8s 
+[ofchill] c6__d119s: ok conv=True stalled=0 solve=418.5s 
+[ofchill] c8__miropolskii: ok conv=True stalled=0 solve=17.7s 
+[ofchill] c7__d119s: ok conv=True stalled=0 solve=179.8s 
+[ofchill] c8__ds: ok conv=True stalled=0 solve=117.9s 
+[ofchill] c9__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=37.4s 
+[ofchill] c9__db_vapor: ok conv=True stalled=0 solve=130.4s 
+[ofchill] c9__ds: ok conv=True stalled=0 solve=119.5s 
+[ofchill] c8__d119s: ok conv=True stalled=0 solve=159.6s 
+[ofchill] c10__db_vapor: ok conv=True stalled=0 solve=29.5s 
+[ofchill] c10__miropolskii_N10dt0.1: ok conv=True stalled=0 solve=5.6s 
+[ofchill] c10__ds: ok conv=True stalled=0 solve=42.6s 
+[ofchill] c10__d119s: ok conv=True stalled=0 solve=61.0s 
+[ofchill] c10__miropolskii: ok conv=True stalled=0 solve=52.3s 
+[ofchill] c9__d119s: ok conv=True stalled=0 solve=205.4s 
+[ofchill] c6__miropolskii: timeout conv=None stalled=None solve=900.0s BridgeError: OpenFLUME Node process exited unexpectedly (exit code None)
+[ofchill] c9__miropolskii: timeout conv=None stalled=None solve=900.0s BridgeError: OpenFLUME Node process exited unexpectedly (exit code None)
+[ofchill] 15 jobs, 3 cached, running 12 on 6 workers
+[ofchill] c3__spec10_N10_dt0.05: ok conv=True stalled=0 solve=39.8s 
+[ofchill] c7__spec10_N10_dt0.05: ok conv=True stalled=0 solve=44.3s 
+[ofchill] c3__spec10_N20_dt0.1: ok conv=True stalled=0 solve=76.3s 
+[ofchill] c3__spec10_N20_dt0.025: ok conv=True stalled=0 solve=81.3s 
+[ofchill] c10__spec10_N10_dt0.05: ok conv=True stalled=0 solve=25.8s 
+[ofchill] c7__spec10_N20_dt0.1: ok conv=True stalled=0 solve=85.4s 
+[ofchill] c10__spec10_N20_dt0.1: ok conv=True stalled=0 solve=50.0s 
+[ofchill] c10__spec10_N20_dt0.025: ok conv=True stalled=0 solve=116.5s 
+[ofchill] c7__spec10_N20_dt0.025: ok conv=True stalled=0 solve=206.8s 
+[ofchill] c10__spec10_N40_dt0.05: ok conv=True stalled=0 solve=245.9s 
+[ofchill] c3__spec10_N40_dt0.05: ok conv=True stalled=0 solve=349.4s 
+[ofchill] c7__spec10_N40_dt0.05: ok conv=True stalled=0 solve=424.0s 
+[ofchill] 20 jobs, 4 cached, running 16 on 6 workers
+[ofchill] nbs10__miropolskii_K5_Pout101: ok conv=True stalled=0 solve=167.0s 
+[ofchill] nbs10__miropolskii_K1_Pout101: ok conv=True stalled=0 solve=167.2s 
+[ofchill] nbs10__miropolskii_K2_Pout83: ok conv=True stalled=0 solve=174.9s 
+[ofchill] nbs10__miropolskii_K10_Pout101: ok conv=True stalled=0 solve=177.3s 
+[ofchill] nbs10__spec10_K2_Pout83: ok conv=True stalled=0 solve=482.0s 
+[ofchill] nbs10__spec10_K5_Pout101: ok conv=True stalled=0 solve=490.3s 
+[ofchill] nbs10__spec10_K1_Pout101: ok conv=True stalled=0 solve=570.4s 
+[ofchill] nbs10__spec10_K10_Pout101: ok conv=True stalled=0 solve=571.4s 
+[ofchill] nbs12__spec10_K5_Pout101: ok conv=True stalled=0 solve=237.5s 
+[ofchill] nbs12__spec10_K1_Pout101: ok conv=True stalled=0 solve=246.0s 
+[ofchill] nbs12__miropolskii_K1_Pout101: ok conv=True stalled=0 solve=110.2s 
+[ofchill] nbs12__miropolskii_K5_Pout101: ok conv=True stalled=0 solve=110.9s 
+[ofchill] nbs12__miropolskii_K10_Pout101: ok conv=True stalled=0 solve=111.4s 
+[ofchill] nbs12__miropolskii_K2_Pout83: ok conv=True stalled=0 solve=111.5s 
+[ofchill] nbs12__spec10_K10_Pout101: ok conv=True stalled=0 solve=234.8s 
+[ofchill] nbs12__spec10_K2_Pout83: ok conv=True stalled=0 solve=234.1s 
+[ofchill] 140 jobs, 0 cached, running 140 on 6 workers
+[ofchill] c1__spec10_x0.05: ok conv=True stalled=0 solve=82.9s 
+[ofchill] c1__spec10_lag0: ok conv=True stalled=0 solve=85.7s 
+[ofchill] c1__spec10_Pex0.95: ok conv=True stalled=0 solve=87.1s 
+[ofchill] c1__spec10_x0.02: ok conv=True stalled=0 solve=89.1s 
+[ofchill] c1__spec10_lag3.5: ok conv=True stalled=0 solve=90.1s 
+[ofchill] c1__spec10_Pex1.05: ok conv=True stalled=0 solve=103.2s 
+[ofchill] c1__spec10_TMFB-5: ok conv=True stalled=0 solve=86.2s 
+[ofchill] c1__spec10_TMFB+5: ok conv=True stalled=0 solve=85.9s 
+[ofchill] c1__spec10_C14.9: ok conv=True stalled=0 solve=86.8s 
+[ofchill] c1__spec10_C16.5: ok conv=True stalled=0 solve=91.9s 
+[ofchill] c1__spec10_Lam0.080: ok conv=True stalled=0 solve=91.5s 
+[ofchill] c1__spec10_Lam0.121: ok conv=True stalled=0 solve=91.1s 
+[ofchill] c2__spec10_lag0: ok conv=True stalled=0 solve=71.9s 
+[ofchill] c2__spec10_lag3.5: ok conv=True stalled=0 solve=67.0s 
+[ofchill] c2__spec10_x0.02: ok conv=True stalled=0 solve=69.5s 
+[ofchill] c1__spec10_parasitic: ok conv=True stalled=0 solve=91.9s 
+[ofchill] c1__spec10_no_axial: ok conv=True stalled=0 solve=91.3s 
+[ofchill] c2__spec10_x0.05: ok conv=True stalled=0 solve=70.1s 
+[ofchill] c2__spec10_TMFB-5: ok conv=True stalled=0 solve=62.8s 
+[ofchill] c2__spec10_Pex0.95: ok conv=True stalled=0 solve=68.6s 
+[ofchill] c2__spec10_Pex1.05: ok conv=True stalled=0 solve=72.3s 
+[ofchill] c2__spec10_C14.9: ok conv=True stalled=0 solve=62.9s 
+[ofchill] c2__spec10_TMFB+5: ok conv=True stalled=0 solve=70.4s 
+[ofchill] c2__spec10_C16.5: ok conv=True stalled=0 solve=73.0s 
+[ofchill] c2__spec10_Lam0.121: ok conv=True stalled=0 solve=70.6s 
+[ofchill] c2__spec10_Lam0.080: ok conv=True stalled=0 solve=72.1s 
+[ofchill] c3__spec10_lag0: ok conv=True stalled=0 solve=54.6s 
+[ofchill] c2__spec10_parasitic: ok conv=True stalled=0 solve=67.0s 
+[ofchill] c2__spec10_no_axial: ok conv=True stalled=0 solve=73.5s 
+[ofchill] c3__spec10_lag3.5: ok conv=True stalled=0 solve=120.9s 
+[ofchill] c3__spec10_x0.05: ok conv=True stalled=0 solve=105.1s 
+[ofchill] c3__spec10_x0.02: ok conv=True stalled=0 solve=108.5s 
+[ofchill] c3__spec10_Pex0.95: ok conv=True stalled=0 solve=111.4s 
+[ofchill] c3__spec10_Pex1.05: ok conv=True stalled=0 solve=122.3s 
+[ofchill] c3__spec10_TMFB-5: ok conv=True stalled=0 solve=113.6s 
+[ofchill] c3__spec10_C16.5: ok conv=True stalled=0 solve=57.2s 
+[ofchill] c3__spec10_TMFB+5: ok conv=True stalled=0 solve=129.2s 
+[ofchill] c3__spec10_C14.9: ok conv=True stalled=0 solve=113.4s 
+[ofchill] c3__spec10_Lam0.080: ok conv=True stalled=0 solve=120.3s 
+[ofchill] c3__spec10_Lam0.121: ok conv=True stalled=0 solve=115.9s 
+[ofchill] c3__spec10_parasitic: ok conv=True stalled=0 solve=116.2s 
+[ofchill] c4__spec10_lag0: ok conv=True stalled=0 solve=70.6s 
+[ofchill] c4__spec10_Pex0.95: ok conv=True stalled=0 solve=34.9s 
+[ofchill] c3__spec10_no_axial: ok conv=True stalled=0 solve=119.5s 
+[ofchill] c4__spec10_lag3.5: ok conv=True stalled=0 solve=70.9s 
+[ofchill] c4__spec10_x0.02: ok conv=True stalled=0 solve=65.6s 
+[ofchill] c4__spec10_x0.05: ok conv=True stalled=0 solve=64.2s 
+[ofchill] c4__spec10_Pex1.05: ok conv=True stalled=0 solve=75.8s 
+[ofchill] c4__spec10_TMFB-5: ok conv=True stalled=0 solve=71.3s 
+[ofchill] c4__spec10_TMFB+5: ok conv=True stalled=0 solve=73.3s 
+[ofchill] c4__spec10_C14.9: ok conv=True stalled=0 solve=71.4s 
+[ofchill] c4__spec10_C16.5: ok conv=True stalled=0 solve=71.4s 
+[ofchill] c4__spec10_Lam0.080: ok conv=True stalled=0 solve=72.4s 
+[ofchill] c4__spec10_Lam0.121: ok conv=True stalled=0 solve=71.7s 
+[ofchill] c4__spec10_parasitic: ok conv=True stalled=0 solve=71.0s 
+[ofchill] c4__spec10_no_axial: ok conv=True stalled=0 solve=73.0s 
+[ofchill] c5__spec10_lag0: ok conv=True stalled=0 solve=103.8s 
+[ofchill] c5__spec10_x0.02: ok conv=True stalled=0 solve=93.8s 
+[ofchill] c5__spec10_lag3.5: ok conv=True stalled=0 solve=102.4s 
+[ofchill] c5__spec10_x0.05: ok conv=True stalled=0 solve=93.8s 
+[ofchill] c5__spec10_Pex0.95: ok conv=True stalled=0 solve=97.8s 
+[ofchill] c5__spec10_Pex1.05: ok conv=True stalled=0 solve=109.0s 
+[ofchill] c5__spec10_TMFB-5: ok conv=True stalled=0 solve=101.7s 
+[ofchill] c5__spec10_C14.9: ok conv=True stalled=0 solve=105.6s 
+[ofchill] c5__spec10_TMFB+5: ok conv=True stalled=0 solve=111.3s 
+[ofchill] c5__spec10_C16.5: ok conv=True stalled=0 solve=113.0s 
+[ofchill] c5__spec10_Lam0.080: ok conv=True stalled=0 solve=109.1s 
+[ofchill] c5__spec10_Lam0.121: ok conv=True stalled=0 solve=107.3s 
+[ofchill] c5__spec10_parasitic: ok conv=True stalled=0 solve=105.0s 
+[ofchill] c5__spec10_no_axial: ok conv=True stalled=0 solve=106.7s 
+[ofchill] c6__spec10_lag0: ok conv=True stalled=0 solve=197.5s 
+[ofchill] c6__spec10_x0.02: ok conv=True stalled=0 solve=196.6s 
+[ofchill] c6__spec10_lag3.5: ok conv=True stalled=0 solve=208.8s 
+[ofchill] c6__spec10_x0.05: ok conv=True stalled=0 solve=188.6s 
+[ofchill] c6__spec10_Pex0.95: ok conv=True stalled=0 solve=198.8s 
+[ofchill] c6__spec10_Pex1.05: ok conv=True stalled=0 solve=208.5s 
+[ofchill] c6__spec10_Lam0.080: ok conv=True stalled=0 solve=131.5s 
+[ofchill] c6__spec10_C14.9: ok conv=True stalled=0 solve=187.7s 
+[ofchill] c6__spec10_TMFB+5: ok conv=True stalled=0 solve=204.0s 
+[ofchill] c6__spec10_TMFB-5: ok conv=True stalled=0 solve=255.9s 
+[ofchill] c6__spec10_C16.5: ok conv=True stalled=0 solve=205.8s 
+[ofchill] c6__spec10_Lam0.121: ok conv=True stalled=0 solve=190.1s 
+[ofchill] c7__spec10_lag3.5: ok conv=True stalled=0 solve=54.0s 
+[ofchill] c7__spec10_lag0: ok conv=True stalled=0 solve=135.7s 
+[ofchill] c7__spec10_x0.02: ok conv=True stalled=0 solve=129.3s 
+[ofchill] c6__spec10_parasitic: ok conv=True stalled=0 solve=178.9s 
+[ofchill] c7__spec10_x0.05: ok conv=True stalled=0 solve=125.4s 
+[ofchill] c6__spec10_no_axial: ok conv=True stalled=0 solve=187.1s 
+[ofchill] c7__spec10_Pex0.95: ok conv=True stalled=0 solve=130.1s 
+[ofchill] c7__spec10_Pex1.05: ok conv=True stalled=0 solve=135.1s 
+[ofchill] c7__spec10_TMFB-5: ok conv=True stalled=0 solve=130.1s 
+[ofchill] c7__spec10_TMFB+5: ok conv=True stalled=0 solve=130.5s 
+[ofchill] c7__spec10_C16.5: ok conv=True stalled=0 solve=128.7s 
+[ofchill] c7__spec10_C14.9: ok conv=True stalled=0 solve=131.6s 
+[ofchill] c7__spec10_Lam0.080: ok conv=True stalled=0 solve=126.8s 
+[ofchill] c7__spec10_Lam0.121: ok conv=True stalled=0 solve=133.5s 
+[ofchill] c7__spec10_no_axial: ok conv=True stalled=0 solve=128.8s 
+[ofchill] c7__spec10_parasitic: ok conv=True stalled=0 solve=140.1s 
+[ofchill] c8__spec10_lag3.5: ok conv=True stalled=0 solve=113.1s 
+[ofchill] c8__spec10_lag0: ok conv=True stalled=0 solve=114.2s 
+[ofchill] c8__spec10_x0.02: ok conv=True stalled=0 solve=108.8s 
+[ofchill] c8__spec10_x0.05: ok conv=True stalled=0 solve=106.8s 
+[ofchill] c8__spec10_Pex0.95: ok conv=True stalled=0 solve=110.7s 
+[ofchill] c8__spec10_Pex1.05: ok conv=True stalled=0 solve=117.6s 
+[ofchill] c8__spec10_TMFB-5: ok conv=True stalled=0 solve=114.2s 
+[ofchill] c8__spec10_TMFB+5: ok conv=True stalled=0 solve=114.1s 
+[ofchill] c8__spec10_C14.9: ok conv=True stalled=0 solve=114.2s 
+[ofchill] c8__spec10_C16.5: ok conv=True stalled=0 solve=112.1s 
+[ofchill] c8__spec10_Lam0.080: ok conv=True stalled=0 solve=108.1s 
+[ofchill] c8__spec10_Lam0.121: ok conv=True stalled=0 solve=114.0s 
+[ofchill] c8__spec10_parasitic: ok conv=True stalled=0 solve=116.2s 
+[ofchill] c8__spec10_no_axial: ok conv=True stalled=0 solve=115.7s 
+[ofchill] c9__spec10_lag0: ok conv=True stalled=0 solve=115.9s 
+[ofchill] c9__spec10_lag3.5: ok conv=True stalled=0 solve=114.8s 
+[ofchill] c9__spec10_x0.02: ok conv=True stalled=0 solve=111.0s 
+[ofchill] c9__spec10_x0.05: ok conv=True stalled=0 solve=109.2s 
+[ofchill] c9__spec10_Pex0.95: ok conv=True stalled=0 solve=113.7s 
+[ofchill] c9__spec10_TMFB-5: ok conv=True stalled=0 solve=115.3s 
+[ofchill] c9__spec10_Pex1.05: ok conv=True stalled=0 solve=119.7s 
+[ofchill] c9__spec10_TMFB+5: ok conv=True stalled=0 solve=115.3s 
+[ofchill] c9__spec10_C14.9: ok conv=True stalled=0 solve=116.4s 
+[ofchill] c9__spec10_C16.5: ok conv=True stalled=0 solve=115.3s 
+[ofchill] c9__spec10_Lam0.080: ok conv=True stalled=0 solve=113.3s 
+[ofchill] c9__spec10_Lam0.121: ok conv=True stalled=0 solve=119.3s 
+[ofchill] c9__spec10_parasitic: ok conv=True stalled=0 solve=117.9s 
+[ofchill] c10__spec10_lag0: ok conv=True stalled=0 solve=75.8s 
+[ofchill] c10__spec10_lag3.5: ok conv=True stalled=0 solve=73.7s 
+[ofchill] c10__spec10_x0.02: ok conv=True stalled=0 solve=79.1s 
+[ofchill] c10__spec10_Pex0.95: ok conv=True stalled=0 solve=76.8s 
+[ofchill] c10__spec10_x0.05: ok conv=True stalled=0 solve=78.9s 
+[ofchill] c9__spec10_no_axial: ok conv=True stalled=0 solve=117.0s 
+[ofchill] c10__spec10_TMFB-5: ok conv=True stalled=0 solve=61.6s 
+[ofchill] c10__spec10_Pex1.05: ok conv=True stalled=0 solve=78.2s 
+[ofchill] c10__spec10_C14.9: ok conv=True stalled=0 solve=67.6s 
+[ofchill] c10__spec10_TMFB+5: ok conv=True stalled=0 solve=84.3s 
+[ofchill] c10__spec10_C16.5: ok conv=True stalled=0 solve=82.0s 
+[ofchill] c10__spec10_Lam0.080: ok conv=True stalled=0 solve=82.2s 
+[ofchill] c10__spec10_Lam0.121: ok conv=True stalled=0 solve=67.0s 
+[ofchill] c10__spec10_parasitic: ok conv=True stalled=0 solve=67.7s 
+[ofchill] c10__spec10_no_axial: ok conv=True stalled=0 solve=68.9s 
+uf
+                    run  n_ok    RMS  RMS_med   bias  t130_MAE  t130_bias  t130_miss  t100s_MAE  tq_MAE  front_MAE  solve_s  fails
+6                spec10    10  11.22     9.62  -4.38      1.16       0.69          1       1.72    1.17      22.68    99.45      0
+0                 d119s    10  12.42     8.74  -4.46      1.60       1.02          2       1.92    2.55      64.46   260.85      0
+5                  spec    10  12.46     9.78  -4.34      1.81       0.71          1       1.58    1.92    1085.60    66.08      0
+2                    ds    10  14.51    13.71   7.13      4.13       4.13          6       2.17    7.57      34.22   192.34      0
+4  miropolskii_N10dt0.1     9  68.90    62.77  62.23       NaN        NaN          9        NaN     NaN        NaN    80.48      1
+1              db_vapor    10  71.91    69.55 -64.57     13.95     -13.95          7      11.88   17.73    1515.16   107.78      0
+3           miropolskii     6  75.01    69.27  68.09       NaN        NaN          7        NaN     NaN        NaN   383.36      4
+sens
+                 run  n_ok    RMS  RMS_med  bias  t130_MAE  t130_bias  t130_miss  t100s_MAE  tq_MAE  front_MAE  solve_s  fails
+11  spec10_parasitic    10  10.90     8.87 -2.70      1.47       1.47          1       1.50    2.66      20.41   107.18      0
+3    spec10_Lam0.121    10  11.06     8.28 -1.79      1.55       1.55          1       1.55    2.67      18.68   108.05      0
+4     spec10_Pex0.95    10  11.11     9.51 -3.75      1.21       0.94          1       1.69    1.24      22.63   102.98      0
+10   spec10_no_axial    10  11.21     9.60 -4.37      1.17       0.69          1       1.70    1.22      23.18   108.14      0
+5     spec10_Pex1.05    10  11.25    10.07 -4.82      1.10       0.53          1       1.73    1.13      23.36   114.19      0
+0       spec10_C14.9    10  11.27     9.17 -0.60      1.91       1.91          2       1.58    2.12      11.62   105.77      0
+9      spec10_lag3.5    10  11.28     8.89 -4.74      1.25       0.71          1       1.82    1.23      22.44   101.57      0
+13      spec10_x0.05    10  11.39     9.19 -4.67      1.21       0.70          1       1.71    1.26      29.94   102.51      0
+12      spec10_x0.02    10  11.41     9.60 -4.79      1.16       0.61          1       1.75    1.21      26.49   105.13      0
+7      spec10_TMFB-5    10  11.41     9.70 -3.35      1.18       0.68          1       1.66    3.21      24.07   111.26      0
+6      spec10_TMFB+5    10  12.03    11.23 -5.48      1.26      -0.32          1       2.10    1.23      24.23   111.81      0
+8        spec10_lag0    10  12.30    10.14 -1.66      1.25       1.04          1       1.48    1.29      23.36   102.57      0
+1       spec10_C16.5    10  12.41    11.86 -7.13      1.14      -0.13          1       1.97    1.16      27.91   105.05      0
+2    spec10_Lam0.080    10  12.90    12.93 -7.92      1.21      -0.38          1       2.07    1.22      45.09   102.72      0
+num
+                  run  n_ok   RMS  RMS_med  bias  t130_MAE  t130_bias  t130_miss  t100s_MAE  tq_MAE  front_MAE  solve_s  fails
+0   spec10_N10_dt0.05     3  9.09     7.90  2.75      1.55       0.78          1       2.63    1.73      38.50    36.62      0
+1  spec10_N20_dt0.025     3  9.23     8.08  2.95      1.46       0.93          1       2.66    1.63      36.49   134.85      0
+2   spec10_N20_dt0.05     3  9.26     8.06  2.89      1.48       0.94          1       2.68    1.60      36.81    99.88      0
+4   spec10_N40_dt0.05     3  9.28     8.02  2.96      1.48       0.93          1       2.65    1.61      36.69   339.77      0
+3    spec10_N20_dt0.1     3  9.33     8.20  2.87      1.50       0.97          1       2.68    1.57      35.74    70.58      0
+       variant     K  P_out_kPa  n    RMS   bias  knee_MAE  knee_bias  knee_n  solve_s
+0  miropolskii   1.0     101.32  8  24.01  11.98     26.80      26.80       5   138.69
+1  miropolskii   2.0      83.08  8  22.10   9.03     25.14      25.14       5   143.24
+2  miropolskii   2.0     101.32  8  24.04  12.00     26.83      26.83       5   150.31
+3  miropolskii   5.0     101.32  8  24.14  12.08     26.90      26.90       5   138.92
+4  miropolskii  10.0     101.32  8  24.28  12.19     27.01      27.01       5   144.39
+5       spec10   1.0     101.32  8  37.02  17.72     10.47       7.81       6   408.18
+6       spec10   2.0      83.08  8  35.31  15.63      9.71       6.31       6   358.07
+7       spec10   2.0     101.32  8  37.11  17.77     10.48       7.84       6   697.10
+8       spec10   5.0     101.32  8  37.24  17.86     10.51       7.92       6   363.91
+9       spec10  10.0     101.32  8  37.47  18.00     10.61       8.06       6   403.11
+Empty DataFrame
+Columns: [run, status, last_t]
+Index: []

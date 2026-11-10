@@ -1,0 +1,34 @@
+{
+ "run_id": "darr40_spec_gv",
+ "hash": "f0d872a0a84ae104",
+ "spec": {
+  "dataset": "darr",
+  "test": 40,
+  "variant": "spec_gv"
+ },
+ "openflume": "0.3.1",
+ "pid": 6808,
+ "solve_s": 148.57030701637268,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 407,
+ "t_end": 20.35,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 1.0245831084167316e-09,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 7043.490900176568,
+  "wallEnergyRemovedJ": 7041.237315693616,
+  "fluidEnthalpyGainJ": 7037.421029192893,
+  "massInKg": 0.70411,
+  "massOutKg": 0.6582515025572528,
+  "fluidInventoryChangeKg": 0.045858497436469615,
+  "wallHeat_over_wallEnergy_m1": 0.0003200551809166008,
+  "fluidGain_over_wallEnergy_m1": -0.0005419908930235362,
+  "mass_imbalance_kg": 6.277554864819734e-12
+ },
+ "h_at_floor_frac": 0.00011671335200746966,
+ "wall_s": 148.61839485168457
+}

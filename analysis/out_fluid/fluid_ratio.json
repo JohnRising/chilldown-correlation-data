@@ -1,0 +1,739 @@
+{
+ "S": [
+  {
+   "fluid": "Hydrogen",
+   "P_atm": 1,
+   "Tw0": 300.0,
+   "S": 7.821,
+   "h_fg_kJ": 448.711,
+   "dh_vap_kJ": 3509.569
+  },
+  {
+   "fluid": "Hydrogen",
+   "P_atm": 2,
+   "Tw0": 300.0,
+   "S": 8.109,
+   "h_fg_kJ": 431.473,
+   "dh_vap_kJ": 3498.941
+  },
+  {
+   "fluid": "Hydrogen",
+   "P_atm": 3,
+   "Tw0": 300.0,
+   "S": 8.475,
+   "h_fg_kJ": 412.506,
+   "dh_vap_kJ": 3495.953
+  },
+  {
+   "fluid": "Hydrogen",
+   "P_atm": 5,
+   "Tw0": 300.0,
+   "S": 9.424,
+   "h_fg_kJ": 371.357,
+   "dh_vap_kJ": 3499.846
+  },
+  {
+   "fluid": "Hydrogen",
+   "P_atm": 1,
+   "Tw0": 200.0,
+   "S": 4.699,
+   "h_fg_kJ": 448.711,
+   "dh_vap_kJ": 2108.418
+  },
+  {
+   "fluid": "Hydrogen",
+   "P_atm": 2,
+   "Tw0": 200.0,
+   "S": 4.861,
+   "h_fg_kJ": 431.473,
+   "dh_vap_kJ": 2097.348
+  },
+  {
+   "fluid": "Hydrogen",
+   "P_atm": 3,
+   "Tw0": 200.0,
+   "S": 5.076,
+   "h_fg_kJ": 412.506,
+   "dh_vap_kJ": 2093.918
+  },
+  {
+   "fluid": "Hydrogen",
+   "P_atm": 5,
+   "Tw0": 200.0,
+   "S": 5.647,
+   "h_fg_kJ": 371.357,
+   "dh_vap_kJ": 2096.934
+  },
+  {
+   "fluid": "Helium",
+   "P_atm": 1,
+   "Tw0": 300.0,
+   "S": 75.021,
+   "h_fg_kJ": 20.564,
+   "dh_vap_kJ": 1542.759
+  },
+  {
+   "fluid": "Helium",
+   "P_atm": 2,
+   "Tw0": 300.0,
+   "S": 145.537,
+   "h_fg_kJ": 10.627,
+   "dh_vap_kJ": 1546.605
+  },
+  {
+   "fluid": "Helium",
+   "P_atm": 3,
+   "Tw0": 300.0,
+   "S": NaN,
+   "h_fg_kJ": NaN,
+   "dh_vap_kJ": NaN
+  },
+  {
+   "fluid": "Helium",
+   "P_atm": 5,
+   "Tw0": 300.0,
+   "S": NaN,
+   "h_fg_kJ": NaN,
+   "dh_vap_kJ": NaN
+  },
+  {
+   "fluid": "Helium",
+   "P_atm": 1,
+   "Tw0": 200.0,
+   "S": 49.767,
+   "h_fg_kJ": 20.564,
+   "dh_vap_kJ": 1023.43
+  },
+  {
+   "fluid": "Helium",
+   "P_atm": 2,
+   "Tw0": 200.0,
+   "S": 96.666,
+   "h_fg_kJ": 10.627,
+   "dh_vap_kJ": 1027.263
+  },
+  {
+   "fluid": "Helium",
+   "P_atm": 3,
+   "Tw0": 200.0,
+   "S": NaN,
+   "h_fg_kJ": NaN,
+   "dh_vap_kJ": NaN
+  },
+  {
+   "fluid": "Helium",
+   "P_atm": 5,
+   "Tw0": 200.0,
+   "S": NaN,
+   "h_fg_kJ": NaN,
+   "dh_vap_kJ": NaN
+  },
+  {
+   "fluid": "Neon",
+   "P_atm": 1,
+   "Tw0": 300.0,
+   "S": 3.296,
+   "h_fg_kJ": 85.788,
+   "dh_vap_kJ": 282.791
+  },
+  {
+   "fluid": "Neon",
+   "P_atm": 2,
+   "Tw0": 300.0,
+   "S": 3.424,
+   "h_fg_kJ": 82.21,
+   "dh_vap_kJ": 281.501
+  },
+  {
+   "fluid": "Neon",
+   "P_atm": 3,
+   "Tw0": 300.0,
+   "S": 3.542,
+   "h_fg_kJ": 79.331,
+   "dh_vap_kJ": 280.955
+  },
+  {
+   "fluid": "Neon",
+   "P_atm": 5,
+   "Tw0": 300.0,
+   "S": 3.774,
+   "h_fg_kJ": 74.38,
+   "dh_vap_kJ": 280.737
+  },
+  {
+   "fluid": "Neon",
+   "P_atm": 1,
+   "Tw0": 200.0,
+   "S": 2.095,
+   "h_fg_kJ": 85.788,
+   "dh_vap_kJ": 179.74
+  },
+  {
+   "fluid": "Neon",
+   "P_atm": 2,
+   "Tw0": 200.0,
+   "S": 2.17,
+   "h_fg_kJ": 82.21,
+   "dh_vap_kJ": 178.408
+  },
+  {
+   "fluid": "Neon",
+   "P_atm": 3,
+   "Tw0": 200.0,
+   "S": 2.242,
+   "h_fg_kJ": 79.331,
+   "dh_vap_kJ": 177.82
+  },
+  {
+   "fluid": "Neon",
+   "P_atm": 5,
+   "Tw0": 200.0,
+   "S": 2.387,
+   "h_fg_kJ": 74.38,
+   "dh_vap_kJ": 177.519
+  },
+  {
+   "fluid": "Nitrogen",
+   "P_atm": 1,
+   "Tw0": 300.0,
+   "S": 1.175,
+   "h_fg_kJ": 199.176,
+   "dh_vap_kJ": 234.036
+  },
+  {
+   "fluid": "Nitrogen",
+   "P_atm": 2,
+   "Tw0": 300.0,
+   "S": 1.205,
+   "h_fg_kJ": 190.364,
+   "dh_vap_kJ": 229.371
+  },
+  {
+   "fluid": "Nitrogen",
+   "P_atm": 3,
+   "Tw0": 300.0,
+   "S": 1.234,
+   "h_fg_kJ": 183.724,
+   "dh_vap_kJ": 226.713
+  },
+  {
+   "fluid": "Nitrogen",
+   "P_atm": 5,
+   "Tw0": 300.0,
+   "S": 1.293,
+   "h_fg_kJ": 173.005,
+   "dh_vap_kJ": 223.726
+  },
+  {
+   "fluid": "Nitrogen",
+   "P_atm": 1,
+   "Tw0": 200.0,
+   "S": 0.652,
+   "h_fg_kJ": 199.176,
+   "dh_vap_kJ": 129.839
+  },
+  {
+   "fluid": "Nitrogen",
+   "P_atm": 2,
+   "Tw0": 200.0,
+   "S": 0.656,
+   "h_fg_kJ": 190.364,
+   "dh_vap_kJ": 124.903
+  },
+  {
+   "fluid": "Nitrogen",
+   "P_atm": 3,
+   "Tw0": 200.0,
+   "S": 0.664,
+   "h_fg_kJ": 183.724,
+   "dh_vap_kJ": 121.972
+  },
+  {
+   "fluid": "Nitrogen",
+   "P_atm": 5,
+   "Tw0": 200.0,
+   "S": 0.685,
+   "h_fg_kJ": 173.005,
+   "dh_vap_kJ": 118.435
+  },
+  {
+   "fluid": "Argon",
+   "P_atm": 1,
+   "Tw0": 300.0,
+   "S": 0.697,
+   "h_fg_kJ": 161.138,
+   "dh_vap_kJ": 112.28
+  },
+  {
+   "fluid": "Argon",
+   "P_atm": 2,
+   "Tw0": 300.0,
+   "S": 0.706,
+   "h_fg_kJ": 155.436,
+   "dh_vap_kJ": 109.733
+  },
+  {
+   "fluid": "Argon",
+   "P_atm": 3,
+   "Tw0": 300.0,
+   "S": 0.716,
+   "h_fg_kJ": 151.2,
+   "dh_vap_kJ": 108.293
+  },
+  {
+   "fluid": "Argon",
+   "P_atm": 5,
+   "Tw0": 300.0,
+   "S": 0.739,
+   "h_fg_kJ": 144.452,
+   "dh_vap_kJ": 106.679
+  },
+  {
+   "fluid": "Argon",
+   "P_atm": 1,
+   "Tw0": 200.0,
+   "S": 0.373,
+   "h_fg_kJ": 161.138,
+   "dh_vap_kJ": 60.045
+  },
+  {
+   "fluid": "Argon",
+   "P_atm": 2,
+   "Tw0": 200.0,
+   "S": 0.369,
+   "h_fg_kJ": 155.436,
+   "dh_vap_kJ": 57.295
+  },
+  {
+   "fluid": "Argon",
+   "P_atm": 3,
+   "Tw0": 200.0,
+   "S": 0.368,
+   "h_fg_kJ": 151.2,
+   "dh_vap_kJ": 55.651
+  },
+  {
+   "fluid": "Argon",
+   "P_atm": 5,
+   "Tw0": 200.0,
+   "S": 0.371,
+   "h_fg_kJ": 144.452,
+   "dh_vap_kJ": 53.623
+  },
+  {
+   "fluid": "Oxygen",
+   "P_atm": 1,
+   "Tw0": 300.0,
+   "S": 0.906,
+   "h_fg_kJ": 213.056,
+   "dh_vap_kJ": 193.023
+  },
+  {
+   "fluid": "Oxygen",
+   "P_atm": 2,
+   "Tw0": 300.0,
+   "S": 0.914,
+   "h_fg_kJ": 205.578,
+   "dh_vap_kJ": 187.89
+  },
+  {
+   "fluid": "Oxygen",
+   "P_atm": 3,
+   "Tw0": 300.0,
+   "S": 0.924,
+   "h_fg_kJ": 200.0,
+   "dh_vap_kJ": 184.829
+  },
+  {
+   "fluid": "Oxygen",
+   "P_atm": 5,
+   "Tw0": 300.0,
+   "S": 0.947,
+   "h_fg_kJ": 191.12,
+   "dh_vap_kJ": 181.072
+  },
+  {
+   "fluid": "Oxygen",
+   "P_atm": 1,
+   "Tw0": 200.0,
+   "S": 0.476,
+   "h_fg_kJ": 213.056,
+   "dh_vap_kJ": 101.447
+  },
+  {
+   "fluid": "Oxygen",
+   "P_atm": 2,
+   "Tw0": 200.0,
+   "S": 0.467,
+   "h_fg_kJ": 205.578,
+   "dh_vap_kJ": 96.049
+  },
+  {
+   "fluid": "Oxygen",
+   "P_atm": 3,
+   "Tw0": 200.0,
+   "S": 0.464,
+   "h_fg_kJ": 200.0,
+   "dh_vap_kJ": 92.72
+  },
+  {
+   "fluid": "Oxygen",
+   "P_atm": 5,
+   "Tw0": 200.0,
+   "S": 0.463,
+   "h_fg_kJ": 191.12,
+   "dh_vap_kJ": 88.422
+  },
+  {
+   "fluid": "Methane",
+   "P_atm": 1,
+   "Tw0": 300.0,
+   "S": 0.789,
+   "h_fg_kJ": 510.828,
+   "dh_vap_kJ": 403.257
+  },
+  {
+   "fluid": "Methane",
+   "P_atm": 2,
+   "Tw0": 300.0,
+   "S": 0.787,
+   "h_fg_kJ": 492.918,
+   "dh_vap_kJ": 387.888
+  },
+  {
+   "fluid": "Methane",
+   "P_atm": 3,
+   "Tw0": 300.0,
+   "S": 0.789,
+   "h_fg_kJ": 479.393,
+   "dh_vap_kJ": 378.374
+  },
+  {
+   "fluid": "Methane",
+   "P_atm": 5,
+   "Tw0": 300.0,
+   "S": 0.8,
+   "h_fg_kJ": 457.61,
+   "dh_vap_kJ": 366.112
+  },
+  {
+   "fluid": "Methane",
+   "P_atm": 1,
+   "Tw0": 200.0,
+   "S": 0.368,
+   "h_fg_kJ": 510.828,
+   "dh_vap_kJ": 187.867
+  },
+  {
+   "fluid": "Methane",
+   "P_atm": 2,
+   "Tw0": 200.0,
+   "S": 0.348,
+   "h_fg_kJ": 492.918,
+   "dh_vap_kJ": 171.484
+  },
+  {
+   "fluid": "Methane",
+   "P_atm": 3,
+   "Tw0": 200.0,
+   "S": 0.336,
+   "h_fg_kJ": 479.393,
+   "dh_vap_kJ": 160.936
+  },
+  {
+   "fluid": "Methane",
+   "P_atm": 5,
+   "Tw0": 200.0,
+   "S": 0.32,
+   "h_fg_kJ": 457.61,
+   "dh_vap_kJ": 146.538
+  }
+ ],
+ "phi": [
+  {
+   "set": "NBS LH2",
+   "case": 2,
+   "inlet": "saturated",
+   "P_kPa": 516.757,
+   "Tw0": 280.4065,
+   "t_cd": 65.6774,
+   "m_kg": 2.0412,
+   "latent_MJ": 0.7536,
+   "E_wall_MJ": 3.4533,
+   "Phi": 0.2182,
+   "S": 8.7229,
+   "local_ok": true,
+   "completed": NaN
+  },
+  {
+   "set": "NBS LH2",
+   "case": 3,
+   "inlet": "subcooled",
+   "P_kPa": 253.312,
+   "Tw0": 271.0237,
+   "t_cd": 139.2991,
+   "m_kg": 2.7978,
+   "latent_MJ": 1.1811,
+   "E_wall_MJ": 3.2822,
+   "Phi": 0.3598,
+   "S": 7.3049,
+   "local_ok": true,
+   "completed": NaN
+  },
+  {
+   "set": "NBS LH2",
+   "case": 4,
+   "inlet": "subcooled",
+   "P_kPa": 425.565,
+   "Tw0": 277.3982,
+   "t_cd": 72.3989,
+   "m_kg": 1.6948,
+   "latent_MJ": 0.6581,
+   "E_wall_MJ": 3.4,
+   "Phi": 0.1936,
+   "S": 8.1745,
+   "local_ok": true,
+   "completed": NaN
+  },
+  {
+   "set": "NBS LH2",
+   "case": 5,
+   "inlet": "subcooled",
+   "P_kPa": 597.817,
+   "Tw0": 295.9169,
+   "t_cd": 58.4979,
+   "m_kg": 2.7051,
+   "latent_MJ": 0.9503,
+   "E_wall_MJ": 3.7381,
+   "Phi": 0.2542,
+   "S": 9.8087,
+   "local_ok": true,
+   "completed": NaN
+  },
+  {
+   "set": "NBS LH2",
+   "case": 6,
+   "inlet": "subcooled",
+   "P_kPa": 770.07,
+   "Tw0": 290.3744,
+   "t_cd": 38.759,
+   "m_kg": 1.639,
+   "latent_MJ": 0.5079,
+   "E_wall_MJ": 3.638,
+   "Phi": 0.1396,
+   "S": 10.9053,
+   "local_ok": true,
+   "completed": NaN
+  },
+  {
+   "set": "NBS LH2",
+   "case": 7,
+   "inlet": "subcooled",
+   "P_kPa": 1114.575,
+   "Tw0": 277.4761,
+   "t_cd": 25.8298,
+   "m_kg": 1.6451,
+   "latent_MJ": 0.3245,
+   "E_wall_MJ": 3.3958,
+   "Phi": 0.0956,
+   "S": 16.4373,
+   "local_ok": true,
+   "completed": NaN
+  },
+  {
+   "set": "NBS LN2",
+   "case": 10,
+   "inlet": "saturated",
+   "P_kPa": 253.312,
+   "Tw0": 275.3335,
+   "t_cd": 244.5769,
+   "m_kg": 11.4001,
+   "latent_MJ": 2.1304,
+   "E_wall_MJ": 3.0218,
+   "Phi": 0.705,
+   "S": 1.0817,
+   "local_ok": false,
+   "completed": NaN
+  },
+  {
+   "set": "NBS LN2",
+   "case": 11,
+   "inlet": "saturated",
+   "P_kPa": 344.505,
+   "Tw0": 297.2948,
+   "t_cd": 199.1788,
+   "m_kg": 12.2821,
+   "latent_MJ": 2.2277,
+   "E_wall_MJ": 3.3896,
+   "Phi": 0.6572,
+   "S": 1.2301,
+   "local_ok": false,
+   "completed": NaN
+  },
+  {
+   "set": "NBS LN2",
+   "case": 12,
+   "inlet": "saturated",
+   "P_kPa": 597.817,
+   "Tw0": 306.76,
+   "t_cd": 118.7669,
+   "m_kg": 12.6155,
+   "latent_MJ": 2.1291,
+   "E_wall_MJ": 3.4859,
+   "Phi": 0.6108,
+   "S": 1.3629,
+   "local_ok": false,
+   "completed": NaN
+  },
+  {
+   "set": "UF low g",
+   "case": 1,
+   "inlet": "saturated",
+   "P_kPa": 169.3847,
+   "Tw0": 294.3183,
+   "t_cd": NaN,
+   "m_kg": 0.0785,
+   "latent_MJ": 0.0151,
+   "E_wall_MJ": 0.0074,
+   "Phi": 2.0373,
+   "S": 1.1646,
+   "local_ok": true,
+   "completed": false
+  },
+  {
+   "set": "UF low g",
+   "case": 2,
+   "inlet": "saturated",
+   "P_kPa": 241.1354,
+   "Tw0": 298.8265,
+   "t_cd": NaN,
+   "m_kg": 0.1394,
+   "latent_MJ": 0.0262,
+   "E_wall_MJ": 0.0075,
+   "Phi": 3.4658,
+   "S": 1.2094,
+   "local_ok": true,
+   "completed": false
+  },
+  {
+   "set": "UF low g",
+   "case": 3,
+   "inlet": "saturated",
+   "P_kPa": 102.1809,
+   "Tw0": 256.4827,
+   "t_cd": NaN,
+   "m_kg": 0.3699,
+   "latent_MJ": 0.0736,
+   "E_wall_MJ": 0.0059,
+   "Phi": 12.419,
+   "S": 0.9476,
+   "local_ok": true,
+   "completed": false
+  },
+  {
+   "set": "UF low g",
+   "case": 4,
+   "inlet": "saturated",
+   "P_kPa": 130.4663,
+   "Tw0": 263.3565,
+   "t_cd": NaN,
+   "m_kg": 0.2692,
+   "latent_MJ": 0.0528,
+   "E_wall_MJ": 0.0062,
+   "Phi": 8.5559,
+   "S": 0.9893,
+   "local_ok": true,
+   "completed": false
+  },
+  {
+   "set": "UF low g",
+   "case": 5,
+   "inlet": "saturated",
+   "P_kPa": 126.9117,
+   "Tw0": 271.6771,
+   "t_cd": NaN,
+   "m_kg": 0.4402,
+   "latent_MJ": 0.0866,
+   "E_wall_MJ": 0.0065,
+   "Phi": 13.2602,
+   "S": 1.0327,
+   "local_ok": true,
+   "completed": false
+  },
+  {
+   "set": "UF low g",
+   "case": 6,
+   "inlet": "saturated",
+   "P_kPa": 288.9922,
+   "Tw0": 273.1363,
+   "t_cd": NaN,
+   "m_kg": 0.4224,
+   "latent_MJ": 0.078,
+   "E_wall_MJ": 0.0064,
+   "Phi": 12.1443,
+   "S": 1.0777,
+   "local_ok": true,
+   "completed": false
+  },
+  {
+   "set": "UF low g",
+   "case": 7,
+   "inlet": "saturated",
+   "P_kPa": 318.7902,
+   "Tw0": 276.6594,
+   "t_cd": 24.1892,
+   "m_kg": 0.6979,
+   "latent_MJ": 0.1276,
+   "E_wall_MJ": 0.0065,
+   "Phi": 19.4931,
+   "S": 1.1048,
+   "local_ok": true,
+   "completed": true
+  },
+  {
+   "set": "UF low g",
+   "case": 8,
+   "inlet": "saturated",
+   "P_kPa": 366.2009,
+   "Tw0": 281.5509,
+   "t_cd": 20.8054,
+   "m_kg": 0.6851,
+   "latent_MJ": 0.1234,
+   "E_wall_MJ": 0.0067,
+   "Phi": 18.3747,
+   "S": 1.1448,
+   "local_ok": true,
+   "completed": true
+  },
+  {
+   "set": "UF low g",
+   "case": 9,
+   "inlet": "saturated",
+   "P_kPa": 441.6765,
+   "Tw0": 293.3,
+   "t_cd": 17.7655,
+   "m_kg": 0.7278,
+   "latent_MJ": 0.1282,
+   "E_wall_MJ": 0.0072,
+   "Phi": 17.9062,
+   "S": 1.2341,
+   "local_ok": true,
+   "completed": true
+  },
+  {
+   "set": "UF low g",
+   "case": 10,
+   "inlet": "saturated",
+   "P_kPa": 712.2638,
+   "Tw0": 268.2775,
+   "t_cd": 12.9789,
+   "m_kg": 0.6664,
+   "latent_MJ": 0.1091,
+   "E_wall_MJ": 0.006,
+   "Phi": 18.3122,
+   "S": 1.1531,
+   "local_ok": true,
+   "completed": true
+  }
+ ]
+}

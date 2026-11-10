@@ -1,0 +1,156 @@
+{
+ "f2__spec11": {
+  "hash": "8107a9c4491547d6",
+  "spec": {
+   "dataset": "f2",
+   "variant": "spec11"
+  }
+ },
+ "darr31__spec11": {
+  "hash": "c9a00f4c2cc321f2",
+  "spec": {
+   "dataset": "darr",
+   "test": 31,
+   "variant": "spec11"
+  }
+ },
+ "darr40__spec11": {
+  "hash": "59e478db52269bd7",
+  "spec": {
+   "dataset": "darr",
+   "test": 40,
+   "variant": "spec11"
+  }
+ },
+ "f2__specz11": {
+  "hash": "3f926e70bdfb7d6c",
+  "spec": {
+   "dataset": "f2",
+   "variant": "specz11"
+  }
+ },
+ "darr31__specz11": {
+  "hash": "b3c10782edb94ca6",
+  "spec": {
+   "dataset": "darr",
+   "test": 31,
+   "variant": "specz11"
+  }
+ },
+ "darr40__specz11": {
+  "hash": "6d95cc6b38d29146",
+  "spec": {
+   "dataset": "darr",
+   "test": 40,
+   "variant": "specz11"
+  }
+ },
+ "f2__ds11": {
+  "hash": "873fc9cf9a1bc14d",
+  "spec": {
+   "dataset": "f2",
+   "variant": "ds11"
+  }
+ },
+ "darr31__ds11": {
+  "hash": "925522e335359aba",
+  "spec": {
+   "dataset": "darr",
+   "test": 31,
+   "variant": "ds11"
+  }
+ },
+ "darr40__ds11": {
+  "hash": "619dfd4459cae743",
+  "spec": {
+   "dataset": "darr",
+   "test": 40,
+   "variant": "ds11"
+  }
+ },
+ "f2__d119s11": {
+  "hash": "18bd05540d73b254",
+  "spec": {
+   "dataset": "f2",
+   "variant": "d119s11"
+  }
+ },
+ "darr31__d119s11": {
+  "hash": "c20f941abfe131d2",
+  "spec": {
+   "dataset": "darr",
+   "test": 31,
+   "variant": "d119s11"
+  }
+ },
+ "darr40__d119s11": {
+  "hash": "e3d7a73ee6add6f1",
+  "spec": {
+   "dataset": "darr",
+   "test": 40,
+   "variant": "d119s11"
+  }
+ },
+ "f2__db_vapor": {
+  "hash": "b4000ac13633a0fa",
+  "spec": {
+   "dataset": "f2",
+   "variant": "db_vapor"
+  }
+ },
+ "darr31__db_vapor": {
+  "hash": "f7cdb74c6cf5fcec",
+  "spec": {
+   "dataset": "darr",
+   "test": 31,
+   "variant": "db_vapor"
+  }
+ },
+ "darr40__db_vapor": {
+  "hash": "702e2a46652b74a2",
+  "spec": {
+   "dataset": "darr",
+   "test": 40,
+   "variant": "db_vapor"
+  }
+ },
+ "f2__miropolskii": {
+  "hash": "c1d4a133a8b42095",
+  "spec": {
+   "dataset": "f2",
+   "variant": "miropolskii"
+  }
+ },
+ "darr31__miropolskii": {
+  "hash": "d96e910e6a37109d",
+  "spec": {
+   "dataset": "darr",
+   "test": 31,
+   "variant": "miropolskii"
+  }
+ },
+ "darr40__miropolskii": {
+  "hash": "2c233cd2f62b59c9",
+  "spec": {
+   "dataset": "darr",
+   "test": 40,
+   "variant": "miropolskii"
+  }
+ },
+ "darr31__spec11_nog": {
+  "hash": "3726e05bc4445893",
+  "spec": {
+   "dataset": "darr",
+   "test": 31,
+   "variant": "spec11_nog"
+  }
+ },
+ "darr40__spec11_nog": {
+  "hash": "db9f5f7bddafee26",
+  "spec": {
+   "dataset": "darr",
+   "test": 40,
+   "variant": "spec11_nog"
+  }
+ }
+}

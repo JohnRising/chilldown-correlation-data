@@ -1,0 +1,41 @@
+{
+ "run_id": "c7__miropolskii",
+ "hash": "ee2f9ce99d0a44a4",
+ "spec": {
+  "case": 7,
+  "closure": "miropolskii",
+  "label": "miropolskii",
+  "N": 20,
+  "dt": 0.05,
+  "options": {
+   "g_shift_s": 2.5
+  },
+  "cparams": null
+ },
+ "openflume": "0.3.1",
+ "pid": 15660,
+ "solve_s": 40.52285385131836,
+ "status": "ok",
+ "converged": true,
+ "aborted": false,
+ "n_steps": 564,
+ "t_end": 28.200000000000003,
+ "stalled_steps": [],
+ "n_stalled": 0,
+ "max_scaled_residual": 9.997010944881603e-10,
+ "warnings": [],
+ "diag": {
+  "wallHeatJ": 1735.0765441845335,
+  "wallEnergyRemovedJ": 1732.681805444406,
+  "fluidEnthalpyGainJ": 1869.358484959835,
+  "massInKg": 0.7766346687750119,
+  "massOutKg": 0.751731927895843,
+  "fluidInventoryChangeKg": 0.024902740908823797,
+  "wallHeat_over_wallEnergy_m1": 0.0013820995479969511,
+  "fluidGain_over_wallEnergy_m1": 0.07888158061449335,
+  "mass_imbalance_kg": -2.9654913941135064e-11
+ },
+ "h_at_floor_frac": 0.04205646860514117,
+ "last_sim_t": 28.200000000000003,
+ "wall_s": 40.58214497566223
+}
