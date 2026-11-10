@@ -69,6 +69,14 @@ using them. The license in `LICENSE-DATA.md` covers only the author's own files.
 | `data/darr2016ijhmt_1g_vertical/` | Darr, S. R. et al., *Int. J. Heat Mass Transf.* 103, 1225-1242 (2016), tests 31 and 40 (1 g upflow) | Digitized from the replot of the data in Kassemi, M. et al., NASA NTRS 20240013323 (2024); boundary conditions from the same report |
 | `data/nbs9264/` | Brennan, J. A. et al., *Cooldown of Cryogenic Transfer Lines*, NBS Report 9264 (1966), NASA-CR-81338 | Digitized from the report's wall-temperature figures; uncertainty in the file headers (unreliable below 70 K) |
 
+### Note on `data/darr2016ijhmt_1g_vertical/` (tests 31 and 40)
+
+These are not the original data files of Darr et al. (2016); no public data file for those tests exists. The author digitized the time
+series from the plots in Kassemi et al. (NASA NTRS 20240013323; *Int. J. Heat Mass Transf.* 2025, doi:10.1016/j.ijheatmasstransfer.2024.126385),
+which replot Darr's measurements. The values are therefore approximations of the original measurements, with digitization error (see the folder's
+README), and are included only so that the results in the paper can be checked. No license has been granted for the original data. For any other
+use, obtain the data from the original authors.
+
 ## Citation
 
 Cite the paper (once published) and this archive (DOI assigned by Zenodo). `CITATION.cff` has the metadata.
